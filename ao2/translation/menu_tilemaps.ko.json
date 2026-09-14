@@ -1,0 +1,261 @@
+[
+  {
+    "resource": "04CAA9",
+    "x": 8,
+    "y": 1,
+    "cells": 4,
+    "korean": "메뉴"
+  },
+  {
+    "resource": "04CAA9",
+    "x": 18,
+    "y": 1,
+    "cells": 4,
+    "korean": "도구"
+  },
+  {
+    "resource": "04CAA9",
+    "x": 18,
+    "y": 4,
+    "cells": 4,
+    "korean": "장비"
+  },
+  {
+    "resource": "04CAA9",
+    "x": 7,
+    "y": 5,
+    "cells": 4,
+    "korean": "시간"
+  },
+  {
+    "resource": "04CAA9",
+    "x": 18,
+    "y": 7,
+    "cells": 5,
+    "korean": "상태"
+  },
+  {
+    "resource": "04CAA9",
+    "x": 8,
+    "y": 11,
+    "cells": 6,
+    "korean": "소지금:"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 2,
+    "y": 5,
+    "cells": 3,
+    "korean": "체력"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 2,
+    "y": 7,
+    "cells": 3,
+    "korean": "정신력"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 2,
+    "y": 9,
+    "cells": 3,
+    "korean": "경험치"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 2,
+    "y": 13,
+    "cells": 3,
+    "korean": "오른손"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 2,
+    "y": 15,
+    "cells": 3,
+    "korean": "왼손"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 2,
+    "y": 17,
+    "cells": 3,
+    "korean": "몸통"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 2,
+    "y": 19,
+    "cells": 3,
+    "korean": "양팔"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 2,
+    "y": 21,
+    "cells": 3,
+    "korean": "양발"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 2,
+    "y": 23,
+    "cells": 3,
+    "korean": "머리"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 20,
+    "y": 11,
+    "cells": 3,
+    "korean": "공격력"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 20,
+    "y": 13,
+    "cells": 3,
+    "korean": "명중률"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 20,
+    "y": 15,
+    "cells": 3,
+    "korean": "수비력"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 20,
+    "y": 17,
+    "cells": 3,
+    "korean": "회피율"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 20,
+    "y": 19,
+    "cells": 3,
+    "korean": "특수율"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 20,
+    "y": 21,
+    "cells": 3,
+    "korean": "방어율"
+  },
+  {
+    "resource": "04CBBF",
+    "x": 20,
+    "y": 23,
+    "cells": 3,
+    "korean": "이동력"
+  },
+  {
+    "resource": "04CEA7",
+    "x": 16,
+    "y": 13,
+    "cells": 3,
+    "korean": "체력"
+  },
+  {
+    "resource": "04CEA7",
+    "x": 16,
+    "y": 15,
+    "cells": 3,
+    "korean": "정신력"
+  },
+  {
+    "resource": "04CEA7",
+    "x": 2,
+    "y": 22,
+    "cells": 3,
+    "korean": "효과:"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 2,
+    "y": 6,
+    "cells": 3,
+    "korean": "오른손"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 2,
+    "y": 8,
+    "cells": 3,
+    "korean": "왼손"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 2,
+    "y": 10,
+    "cells": 3,
+    "korean": "몸통"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 2,
+    "y": 12,
+    "cells": 3,
+    "korean": "양팔"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 2,
+    "y": 14,
+    "cells": 3,
+    "korean": "양발"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 2,
+    "y": 16,
+    "cells": 3,
+    "korean": "머리"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 17,
+    "y": 6,
+    "cells": 3,
+    "korean": "공격력"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 17,
+    "y": 8,
+    "cells": 3,
+    "korean": "명중률"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 17,
+    "y": 10,
+    "cells": 3,
+    "korean": "수비력"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 17,
+    "y": 12,
+    "cells": 3,
+    "korean": "회피율"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 17,
+    "y": 14,
+    "cells": 3,
+    "korean": "특수율"
+  },
+  {
+    "resource": "04CFF0",
+    "x": 17,
+    "y": 16,
+    "cells": 3,
+    "korean": "방어율"
+  }
+]

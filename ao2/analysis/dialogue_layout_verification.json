@@ -1,0 +1,231 @@
+{
+  "scope": "static serialized dialogue and contiguous native event windows; not a gameplay run",
+  "translated_records": 2131,
+  "max_cells_per_record": 32,
+  "native_line_limit": 32,
+  "native_lines_per_page": 3,
+  "native_dynamic_glyph_capacity": 56,
+  "event_windows_checked": 5135,
+  "overflow_windows": [],
+  "largest_windows": [
+    {
+      "script": "CB2A59",
+      "line_ids": [
+        1322,
+        1323,
+        1324
+      ],
+      "dynamic_glyphs": 54
+    },
+    {
+      "script": "CB1E37",
+      "line_ids": [
+        341,
+        342,
+        343
+      ],
+      "dynamic_glyphs": 52
+    },
+    {
+      "script": "CB2540",
+      "line_ids": [
+        533,
+        534,
+        535
+      ],
+      "dynamic_glyphs": 52
+    },
+    {
+      "script": "CBA504",
+      "line_ids": [
+        718,
+        719,
+        720
+      ],
+      "dynamic_glyphs": 52
+    },
+    {
+      "script": "CBA504",
+      "line_ids": [
+        718,
+        719,
+        720
+      ],
+      "dynamic_glyphs": 52
+    },
+    {
+      "script": "CB116F",
+      "line_ids": [
+        135,
+        136,
+        137
+      ],
+      "dynamic_glyphs": 51
+    },
+    {
+      "script": "CB116F",
+      "line_ids": [
+        140,
+        480,
+        481
+      ],
+      "dynamic_glyphs": 51
+    },
+    {
+      "script": "CB116F",
+      "line_ids": [
+        136,
+        137,
+        138
+      ],
+      "dynamic_glyphs": 50
+    },
+    {
+      "script": "CB116F",
+      "line_ids": [
+        138,
+        139,
+        140
+      ],
+      "dynamic_glyphs": 50
+    },
+    {
+      "script": "CB11A3",
+      "line_ids": [
+        559,
+        560,
+        561
+      ],
+      "dynamic_glyphs": 50
+    },
+    {
+      "script": "CB11A3",
+      "line_ids": [
+        562,
+        563,
+        564
+      ],
+      "dynamic_glyphs": 50
+    },
+    {
+      "script": "CB11BD",
+      "line_ids": [
+        1365,
+        1366,
+        1367
+      ],
+      "dynamic_glyphs": 50
+    },
+    {
+      "script": "CB13B2",
+      "line_ids": [
+        1639,
+        1640,
+        1641
+      ],
+      "dynamic_glyphs": 50
+    },
+    {
+      "script": "CB1706",
+      "line_ids": [
+        1525,
+        1526,
+        1527
+      ],
+      "dynamic_glyphs": 50
+    },
+    {
+      "script": "CB1A58",
+      "line_ids": [
+        1639,
+        1640,
+        1641
+      ],
+      "dynamic_glyphs": 50
+    },
+    {
+      "script": "CB116F",
+      "line_ids": [
+        137,
+        138,
+        139
+      ],
+      "dynamic_glyphs": 49
+    },
+    {
+      "script": "CB11A3",
+      "line_ids": [
+        560,
+        561,
+        562
+      ],
+      "dynamic_glyphs": 49
+    },
+    {
+      "script": "CB11A3",
+      "line_ids": [
+        561,
+        562,
+        563
+      ],
+      "dynamic_glyphs": 49
+    },
+    {
+      "script": "CB11BD",
+      "line_ids": [
+        1360,
+        1361,
+        1362
+      ],
+      "dynamic_glyphs": 49
+    },
+    {
+      "script": "CB11BD",
+      "line_ids": [
+        1361,
+        1362,
+        1363
+      ],
+      "dynamic_glyphs": 49
+    }
+  ],
+  "unresolved_event_roots": [
+    {
+      "root": 43213,
+      "first_pointer": 1024
+    },
+    {
+      "root": 64912,
+      "first_pointer": 2114
+    }
+  ],
+  "partially_decoded_scripts": [
+    {
+      "address": 2684,
+      "words": [
+        0
+      ],
+      "word_count": 1,
+      "boundary": 2688,
+      "invalid_words": [
+        {
+          "address": 2686,
+          "value": 2688
+        }
+      ]
+    },
+    {
+      "address": 42101,
+      "words": [],
+      "word_count": 0,
+      "boundary": 42106,
+      "invalid_words": [
+        {
+          "address": 42101,
+          "value": 31232
+        }
+      ]
+    }
+  ],
+  "event_control_bytes_changed": false
+}

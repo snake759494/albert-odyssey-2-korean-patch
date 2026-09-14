@@ -1,0 +1,146 @@
+{
+  "status": "사용자 지정 한국어 표기 확정; 원문 판독과 인물 설명은 별도 검수",
+  "source": "사용자 제공 등장인물 목록",
+  "characters": [
+    {
+      "japanese": "ディーン",
+      "korean": "딘"
+    },
+    {
+      "japanese": "ユナ",
+      "korean": "유나"
+    },
+    {
+      "japanese": "アルバート",
+      "korean": "알버트"
+    },
+    {
+      "japanese": "ソフィア",
+      "korean": "소피아"
+    },
+    {
+      "japanese": "ワイズマン",
+      "korean": "와이즈맨"
+    },
+    {
+      "japanese": "モールス",
+      "korean": "몰스"
+    },
+    {
+      "japanese": "クレシャ",
+      "korean": "크레샤"
+    },
+    {
+      "japanese": "ダッシュ",
+      "korean": "대시"
+    },
+    {
+      "japanese": "ビビト",
+      "korean": "비비트"
+    },
+    {
+      "japanese": "アー",
+      "korean": "아"
+    },
+    {
+      "japanese": "ルフト",
+      "korean": "루프트"
+    },
+    {
+      "japanese": "ライラック",
+      "korean": "라이락"
+    },
+    {
+      "japanese": "レディシュ",
+      "korean": "레디슈"
+    },
+    {
+      "japanese": "ペイル",
+      "korean": "페일"
+    },
+    {
+      "japanese": "チアン",
+      "korean": "치안"
+    },
+    {
+      "japanese": "ノア",
+      "korean": "노아"
+    },
+    {
+      "japanese": "ナック",
+      "korean": "낙"
+    },
+    {
+      "japanese": "リン",
+      "korean": "린"
+    },
+    {
+      "japanese": "グローバス",
+      "korean": "그로바스"
+    },
+    {
+      "japanese": "オズワルド",
+      "korean": "오즈왈드"
+    },
+    {
+      "japanese": "ライアモス",
+      "korean": "라이아모스"
+    },
+    {
+      "japanese": "シン",
+      "korean": "신"
+    }
+  ],
+  "places": [
+    {
+      "japanese": "ルクレナン",
+      "korean": "루크레난"
+    },
+    {
+      "japanese": null,
+      "korean": "성 브라이닛슈 교회",
+      "status": "일본어 원문 대응 확인 필요"
+    }
+  ],
+  "descriptions": {
+    "유나": "루크레난 왕국의 왕녀.",
+    "루프트": {
+      "user_description": "루크레난 왕국 성 브라이닛슈 교회의 사제.",
+      "status": "원문 대조 필요: 추출 대사 dialogue_0203~0204에서는 장군으로 소개되어 설명 연결 확인 필요. 사용자 지정 이름 표기는 유지."
+    }
+  },
+  "spirits": [
+    {
+      "name": "치안",
+      "element": "물",
+      "order": 1
+    },
+    {
+      "name": "노아",
+      "element": "바람",
+      "order": 2
+    },
+    {
+      "name": "낙",
+      "element": "불",
+      "order": 3
+    },
+    {
+      "name": "린",
+      "element": "땅",
+      "order": 4
+    }
+  ],
+  "editorial_normalizations": {
+    "뮬": "물",
+    "뷸": "불"
+  },
+  "rules": [
+    "한국어 이름을 글자 수 때문에 줄이지 않는다.",
+    "직함은 이름과 별도로 번역한다.",
+    "주인공 이름 치환 코드 01234를 보존한다. 딘은 기본 이름 표기다.",
+    "1편의 다른 음역보다 이 목록을 2편 표기의 기준으로 우선한다.",
+    "한 글자 인명 아/신/낙/린을 일반 문장에 일괄 치환하지 않는다. 인물 문맥을 확인한다.",
+    "이 용어집 저장은 ROM 반영 또는 빌드 완료를 의미하지 않는다."
+  ]
+}

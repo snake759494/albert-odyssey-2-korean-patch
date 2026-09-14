@@ -1,0 +1,698 @@
+[
+  {
+    "address": "047FA2",
+    "source": "く  なにを うるか カ-ソルで 進んでね。 ",
+    "korean": "판매할 물건을 선택하세요",
+    "original_cells": 22
+  },
+  {
+    "address": "047FD0",
+    "source": "    そのアイテムは うれません     ",
+    "korean": "이 물건은 팔 수 없습니다",
+    "original_cells": 22
+  },
+  {
+    "address": "047FFE",
+    "source": " を いくつ うりますか?",
+    "korean": " 몇 개를 팔까요?",
+    "original_cells": 13
+  },
+  {
+    "address": "04801A",
+    "source": "装備できるキャラクター                   ",
+    "korean": "장비 가능한 동료",
+    "original_cells": 30
+  },
+  {
+    "address": "048058",
+    "source": "装備効果 攻撃<ICON:0E61>      守備<ICON:0E61>      特酔<ICON:0E61>    ",
+    "korean": "장비 효과 공격:      수비:      특수:",
+    "original_cells": 30
+  },
+  {
+    "address": "048096",
+    "source": "     命中<ICON:0E61>      回上<ICON:0E61>      防士<ICON:0E61>    ",
+    "korean": "     명중:      회피:      방어:",
+    "original_cells": 30
+  },
+  {
+    "address": "0480D4",
+    "source": " 効果:",
+    "korean": " 효과:",
+    "original_cells": 4
+  },
+  {
+    "address": "0480DE",
+    "source": "  なにを かうか カ-ソルで 進んでね。  ",
+    "korean": "구입할 물건을 선택하세요",
+    "original_cells": 23
+  },
+  {
+    "address": "04810E",
+    "source": " を だれが かいますか?",
+    "korean": " 누가 구입할까요?",
+    "original_cells": 13
+  },
+  {
+    "address": "04812A",
+    "source": " を いくつ かいますか?",
+    "korean": " 몇 개를 살까요?",
+    "original_cells": 13
+  },
+  {
+    "address": "048146",
+    "source": " を 装備しますか?",
+    "korean": " 장비할까요?",
+    "original_cells": 10
+  },
+  {
+    "address": "04815C",
+    "source": "装備する ",
+    "korean": "장비하기",
+    "original_cells": 5
+  },
+  {
+    "address": "048168",
+    "source": "装備しない",
+    "korean": "보관하기",
+    "original_cells": 5
+  },
+  {
+    "address": "048174",
+    "source": " 装備していた",
+    "korean": "장비 중이던",
+    "original_cells": 7
+  },
+  {
+    "address": "048184",
+    "source": " を",
+    "korean": "을",
+    "original_cells": 2
+  },
+  {
+    "address": "04818A",
+    "source": " GOLD で うりますか?",
+    "korean": " 골드에 팔까요?",
+    "original_cells": 14
+  },
+  {
+    "address": "0481A8",
+    "source": "うる   ",
+    "korean": "판매",
+    "original_cells": 5
+  },
+  {
+    "address": "0481B4",
+    "source": "うらない ",
+    "korean": "취소",
+    "original_cells": 5
+  },
+  {
+    "address": "0481C0",
+    "source": "  そのアイテムは これいじょう持てません  ",
+    "korean": "이 물건은 더 가질 수 없습니다",
+    "original_cells": 23
+  },
+  {
+    "address": "0481F0",
+    "source": "なし",
+    "korean": "없음",
+    "original_cells": 2
+  },
+  {
+    "address": "0481F6",
+    "source": "だれも装備できません!!",
+    "korean": "아무도 장비 못 해요!",
+    "original_cells": 12
+  },
+  {
+    "address": "048210",
+    "source": " を かいますか?",
+    "korean": " 구입할까요?",
+    "original_cells": 9
+  },
+  {
+    "address": "048224",
+    "source": "持物の中へ",
+    "korean": "보관하기",
+    "original_cells": 5
+  },
+  {
+    "address": "048230",
+    "source": " を かった!",
+    "korean": " 구입!",
+    "original_cells": 7
+  },
+  {
+    "address": "048240",
+    "source": " を うった!",
+    "korean": " 판매!",
+    "original_cells": 7
+  },
+  {
+    "address": "048250",
+    "source": " を 持物の中にいれた!",
+    "korean": " 보관함에 넣었다!",
+    "original_cells": 12
+  },
+  {
+    "address": "04826A",
+    "source": " を 装備した!",
+    "korean": " 장비 완료!",
+    "original_cells": 8
+  },
+  {
+    "address": "04827C",
+    "source": " を 持物の中に戻した!",
+    "korean": " 보관함에 돌려놓았다!",
+    "original_cells": 12
+  },
+  {
+    "address": "04D3DA",
+    "source": "アルバート",
+    "korean": "알버트",
+    "original_cells": 5
+  },
+  {
+    "address": "04D3E6",
+    "source": "ワイズマン",
+    "korean": "와이즈맨",
+    "original_cells": 5
+  },
+  {
+    "address": "04D3F2",
+    "source": "ダッシュ",
+    "korean": "대시",
+    "original_cells": 4
+  },
+  {
+    "address": "04D3FC",
+    "source": "モールス",
+    "korean": "몰스",
+    "original_cells": 4
+  },
+  {
+    "address": "04D406",
+    "source": "ソフィア",
+    "korean": "소피아",
+    "original_cells": 4
+  },
+  {
+    "address": "04D410",
+    "source": "クレシャ",
+    "korean": "크레샤",
+    "original_cells": 4
+  },
+  {
+    "address": "04D41A",
+    "source": "ユナ",
+    "korean": "유나",
+    "original_cells": 2
+  },
+  {
+    "address": "04D420",
+    "source": "正常",
+    "korean": "정상",
+    "original_cells": 2
+  },
+  {
+    "address": "04D426",
+    "source": "ドク",
+    "korean": "독",
+    "original_cells": 2
+  },
+  {
+    "address": "04D42C",
+    "source": "マヒ",
+    "korean": "마비",
+    "original_cells": 2
+  },
+  {
+    "address": "04D432",
+    "source": "??",
+    "korean": "??",
+    "original_cells": 2
+  },
+  {
+    "address": "04D438",
+    "source": "石化",
+    "korean": "석화",
+    "original_cells": 2
+  },
+  {
+    "address": "04D43E",
+    "source": "重体",
+    "korean": "중태",
+    "original_cells": 2
+  },
+  {
+    "address": "04D444",
+    "source": "つかう",
+    "korean": "사용",
+    "original_cells": 3
+  },
+  {
+    "address": "04D44C",
+    "source": "つかわない",
+    "korean": "취소",
+    "original_cells": 5
+  },
+  {
+    "address": "04EE2B",
+    "source": "防々力 20 回復できる",
+    "korean": "체력 20 회복",
+    "original_cells": 12
+  },
+  {
+    "address": "04EE45",
+    "source": "防々力 40 回復できる",
+    "korean": "체력 40 회복",
+    "original_cells": 12
+  },
+  {
+    "address": "04EE5F",
+    "source": "防々力 60 回復できる",
+    "korean": "체력 60 회복",
+    "original_cells": 12
+  },
+  {
+    "address": "04EE79",
+    "source": "防々力 80 回復できる",
+    "korean": "체력 80 회복",
+    "original_cells": 12
+  },
+  {
+    "address": "04EE93",
+    "source": "防々力 MAX回復できる",
+    "korean": "체력 완전 회복",
+    "original_cells": 12
+  },
+  {
+    "address": "04EEAD",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EEB9",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EEC5",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EED1",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EEDD",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EEE9",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EEF5",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EF01",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EF0D",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EF19",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EF25",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EF31",
+    "source": "精神力 1 回復できる",
+    "korean": "정신력 1 회복",
+    "original_cells": 11
+  },
+  {
+    "address": "04EF49",
+    "source": "精神力 2 回復できる",
+    "korean": "정신력 2 회복",
+    "original_cells": 11
+  },
+  {
+    "address": "04EF61",
+    "source": "精神力 3 回復できる",
+    "korean": "정신력 3 회복",
+    "original_cells": 11
+  },
+  {
+    "address": "04EF79",
+    "source": "精神力 4 回復できる",
+    "korean": "정신력 4 회복",
+    "original_cells": 11
+  },
+  {
+    "address": "04EF91",
+    "source": "精神力 5 回復できる",
+    "korean": "정신력 5 회복",
+    "original_cells": 11
+  },
+  {
+    "address": "04EFA9",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EFB5",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EFC1",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EFCD",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EFD9",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04EFE5",
+    "source": "ドクの効果を消す",
+    "korean": "독을 치료한다",
+    "original_cells": 8
+  },
+  {
+    "address": "04EFF7",
+    "source": "マヒから回復する",
+    "korean": "마비를 치료한다",
+    "original_cells": 8
+  },
+  {
+    "address": "04F009",
+    "source": "石化から回復する",
+    "korean": "석화를 치료한다",
+    "original_cells": 8
+  },
+  {
+    "address": "04F01B",
+    "source": "マヒ…ドク…石化をなおす",
+    "korean": "독·마비·석화 치료",
+    "original_cells": 12
+  },
+  {
+    "address": "04F035",
+    "source": "重体を鍵らせ 防々力…精神力 MAX回復",
+    "korean": "소생시키고 체력과 정신력을 모두 회복",
+    "original_cells": 20
+  },
+  {
+    "address": "04F05F",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F06B",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F077",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F083",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F08F",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F09B",
+    "source": "EXPをあげる",
+    "korean": "경험치 증가",
+    "original_cells": 7
+  },
+  {
+    "address": "04F0AB",
+    "source": "攻撃力があがる",
+    "korean": "공격력 증가",
+    "original_cells": 7
+  },
+  {
+    "address": "04F0BB",
+    "source": "命中ぉがあがる",
+    "korean": "명중률 증가",
+    "original_cells": 7
+  },
+  {
+    "address": "04F0CB",
+    "source": "守備力があがる",
+    "korean": "수비력 증가",
+    "original_cells": 7
+  },
+  {
+    "address": "04F0DB",
+    "source": "回上ぉがあがる",
+    "korean": "회피율 증가",
+    "original_cells": 7
+  },
+  {
+    "address": "04F0EB",
+    "source": "特酔ぉがあがる",
+    "korean": "특수능력 증가",
+    "original_cells": 7
+  },
+  {
+    "address": "04F0FB",
+    "source": "防士ぉがあがる",
+    "korean": "방어율 증가",
+    "original_cells": 7
+  },
+  {
+    "address": "04F10B",
+    "source": "防々力のMAXがあがる",
+    "korean": "최대 체력 증가",
+    "original_cells": 11
+  },
+  {
+    "address": "04F123",
+    "source": "精神力のMAXがあがる",
+    "korean": "최대 정신력 증가",
+    "original_cells": 11
+  },
+  {
+    "address": "04F13B",
+    "source": "移動力があがる",
+    "korean": "이동력 증가",
+    "original_cells": 7
+  },
+  {
+    "address": "04F14B",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F157",
+    "source": "LV2のあかいたからばこがあけられる",
+    "korean": "빨간 보물상자 2단계 열쇠",
+    "original_cells": 18
+  },
+  {
+    "address": "04F17D",
+    "source": "LV3のあかいたからばこがあけられる",
+    "korean": "빨간 보물상자 3단계 열쇠",
+    "original_cells": 18
+  },
+  {
+    "address": "04F1A3",
+    "source": "LV1のあかいたからばこがあけられる",
+    "korean": "빨간 보물상자 1단계 열쇠",
+    "original_cells": 18
+  },
+  {
+    "address": "04F1C9",
+    "source": "あおいろのたからばこがあけられる",
+    "korean": "파란 보물상자를 연다",
+    "original_cells": 16
+  },
+  {
+    "address": "04F1EB",
+    "source": "みどりいろのたからばこがあけられる",
+    "korean": "초록 보물상자를 연다",
+    "original_cells": 17
+  },
+  {
+    "address": "04F20F",
+    "source": "くろいろのたからばこがあけられる",
+    "korean": "검은 보물상자를 연다",
+    "original_cells": 16
+  },
+  {
+    "address": "04F231",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F23D",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F249",
+    "source": "すこしのあいだダンジョンの中をてらす",
+    "korean": "잠깐 동안 던전 안을 밝힌다",
+    "original_cells": 18
+  },
+  {
+    "address": "04F26F",
+    "source": "しばらくのあいだダンジョンの中をてらす",
+    "korean": "한동안 던전 안을 밝힌다",
+    "original_cells": 19
+  },
+  {
+    "address": "04F297",
+    "source": "ダンジョンの中をえいえんにてらす",
+    "korean": "던전 안을 계속 밝힌다",
+    "original_cells": 16
+  },
+  {
+    "address": "04F2B9",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F2C5",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F2D1",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F2DD",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F2E9",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F2F5",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F301",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F30D",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F319",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F325",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F331",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F33D",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F349",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F355",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  },
+  {
+    "address": "04F361",
+    "source": "よていなし",
+    "korean": "미사용",
+    "original_cells": 5
+  }
+]

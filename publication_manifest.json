@@ -1,0 +1,587 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 110,
+      "sha256": "b6831aa15695c30eda1708659d64ca75fc3641d578879ec081dc3800ef5a1b6b"
+    },
+    {
+      "path": "analysis_compression/decode.py",
+      "size": 1110,
+      "sha256": "3ab8957fbed19fd89e6aadd4671bc2939f416677dfa3d30cc82dcfc657224dc1"
+    },
+    {
+      "path": "analysis_compression/disasm.py",
+      "size": 759,
+      "sha256": "723b1034c2e855ec353cc6f9ec867bbfa10571d1f4f7cf0c3108fc2d55fbae88"
+    },
+    {
+      "path": "analysis_font_scan/run_headless.py",
+      "size": 4064,
+      "sha256": "d7675e749367306c1bedbf717c7a65b2ef448e0b746d5837f7bef441b3f9ce72"
+    },
+    {
+      "path": "ao2/analysis/chartable.json",
+      "size": 17895,
+      "sha256": "dde109edb91cf03a0873c3ec403bf30ea78481a185f0f34d94911a72e81fc1e6"
+    },
+    {
+      "path": "ao2/analysis/dialogue_layout_verification.json",
+      "size": 3920,
+      "sha256": "fc35ef8aa2071c9e4ddd29ec13c0d17abbfd5a7d0433f4d019b059076414fc3d"
+    },
+    {
+      "path": "ao2/analysis/font_entries.json",
+      "size": 103725,
+      "sha256": "0fe679ae6392b2e2c01196ce183a1fa9cadcfbd3c11f60e23d128af366bc18c9"
+    },
+    {
+      "path": "ao2/analysis/gameplay_v06.json",
+      "size": 4695,
+      "sha256": "b3250cde52969b49964468f047510ee75dee490fe4f8a9a4edb220b14d4305e5"
+    },
+    {
+      "path": "ao2/analysis/items.json",
+      "size": 76522,
+      "sha256": "27296cdbbd40c99f51a8639a10143ead4d0b957cc5f64ec42a23da17414e672a"
+    },
+    {
+      "path": "ao2/analysis/page_cache_verification.json",
+      "size": 294,
+      "sha256": "f87af66ddfa88249553249ed69fbe20d760c4b9a622f48035920c4911cb62d75"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final/frame0001.png",
+      "size": 36020,
+      "sha256": "b3fb52244f953096601b63afa1c32bc5147cc400081dc3a0376407c7abc782ec"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final/frame0002.png",
+      "size": 33723,
+      "sha256": "50c464866967ed2b512961a14c5920639e9a3097afcc8e5a3f97939e5569ef9d"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final/frame0003.png",
+      "size": 36437,
+      "sha256": "1fbbd7636b037e42a2c70454293612fe9b2bec50bf477ccd021228e2d30fae03"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final/frame0004.png",
+      "size": 34124,
+      "sha256": "28e135f028e9dbb946ff80639ff11b3c994c7c8aefad606c4def3899479b29f7"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final/frame0005.png",
+      "size": 26207,
+      "sha256": "0e02205c5c882b80c36c84b6c653a7ca7a5538632a49696e9a814e10671b0803"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final/steps.jsonl",
+      "size": 1268,
+      "sha256": "015bc9fd84c59f0024ccdb7042ff6b73b8356c2f4d5a4ef400daf3e61fb913ce"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final_equipment/frame0001.png",
+      "size": 8371,
+      "sha256": "1ed6a549506eaedd3701d7cfdac5f4999111bb7a97a8e46c9beb27bde8938eda"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final_equipment/steps.jsonl",
+      "size": 225,
+      "sha256": "534e819f8fb4455d1d7f1e8d76112684040c0de60e1f3466980b3c1820f5726c"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final_item/frame0001.png",
+      "size": 4545,
+      "sha256": "486c6aad11cbc4f339481dd6a470aa591495625f51375643211584f33cb0a08b"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final_item/steps.jsonl",
+      "size": 222,
+      "sha256": "c9b6b2bd5a8b5290b6ee5613361fe938e408f84f5a1ce7295f870efc59fbfa70"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final_party/frame0001.png",
+      "size": 5972,
+      "sha256": "4c9d42798096e733e2306267243e01b8214f3ffe194fac7749dc91190b066536"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final_party/steps.jsonl",
+      "size": 124,
+      "sha256": "84aae6ae131b2a5f8db19fb410231ee5b7654b7bc39e975633d4bcb7b54b0ef2"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final_skill/frame0001.png",
+      "size": 31734,
+      "sha256": "7b182341d2cb8d14d342a6fecc40239a73cdaa0b9e331113e8fd99a4687ace79"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_final_skill/steps.jsonl",
+      "size": 180,
+      "sha256": "47a88678f31cb2d034d6bad8588940b5cc87082c2587a5edbbdfa14babb0b36e"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_release/frame0001.png",
+      "size": 17987,
+      "sha256": "b31fc93c0c8d5fdb393355884800483ac6aad0c77527c2aa4c07b6acf4bc2e4c"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_release/frame0002.png",
+      "size": 23451,
+      "sha256": "38904a6cfeda2c0ec4fccfeae9e42f86e7d1a98adf39743ab1c0ae805c3dc77e"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_release/frame0003.png",
+      "size": 33350,
+      "sha256": "17cc26c674ca3c1ae9fcc20f15a61d60a58931b0fd4e9f87ba0c7cc0bddfe9bd"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_release/steps.jsonl",
+      "size": 538,
+      "sha256": "78d27754a40a1de57e543d866597303c9bcfe31a06d06238f31292ae9b0ae777"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_release_skill/frame0001.png",
+      "size": 17266,
+      "sha256": "ed4822993e9a5b9bce00d9cd4d0010c848b07a0705796850f912d4ea60a87fb9"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_release_skill/frame0002.png",
+      "size": 30319,
+      "sha256": "2fdae16de5d588fd7a1af3935bb6b5b63298b7b6ee4f05e6fe18fecf05e2ffa3"
+    },
+    {
+      "path": "ao2/analysis/playtest_v06_release_skill/steps.jsonl",
+      "size": 435,
+      "sha256": "97e447ec1fd9f222ca7eb4cea1229e5e7a5253b5c88b6227fb54682aa550ce7b"
+    },
+    {
+      "path": "ao2/analysis/records.json",
+      "size": 1883606,
+      "sha256": "c9b746e10fde4d9cdb5fb311ce02983003053612acab728b509fa04e36466f5a"
+    },
+    {
+      "path": "ao2/analysis/records_raw.json",
+      "size": 1607191,
+      "sha256": "6f573e7c3d6f8bedd18a607b8ce44d23e7069fcd1efbbc807b87908f685cb19f"
+    },
+    {
+      "path": "ao2/analysis/translation_validation.json",
+      "size": 149,
+      "sha256": "b18f54905aec7c6bf702e87c294177aa40e1b91cb5f625245975c793f526b843"
+    },
+    {
+      "path": "ao2/analysis/ui_grid_audit.json",
+      "size": 23393,
+      "sha256": "7ceafc6db3a2d6add2b445cb27f1a98498eddf9b39d3afccd1bd594b80633cee"
+    },
+    {
+      "path": "ao2/analysis/ui_tiles.json",
+      "size": 25646,
+      "sha256": "26d9e48a42aba8cffdd824b294b29ae28c9ffa086a3431490e1570674fec0e5d"
+    },
+    {
+      "path": "ao2/build/release_v06/verification.json",
+      "size": 69588,
+      "sha256": "16b196ec3e8078e8c3c43fd43e7164fd781c941317f3429cc109134ead950423"
+    },
+    {
+      "path": "ao2/build/release_v06/수정내역과_실제플레이검수.md",
+      "size": 6985,
+      "sha256": "0f11443743b85910fc4c9defb38b932bc34db9a5a96a7ed28eef0f93f587afa3"
+    },
+    {
+      "path": "ao2/tools/audit_ui_grids.py",
+      "size": 2690,
+      "sha256": "f3e668279adc2fcb7bcc97d525429c31a6d01a4813b35cba5e5e235e82c46d9c"
+    },
+    {
+      "path": "ao2/tools/battle_item_font.py",
+      "size": 2655,
+      "sha256": "6f7b02f85ef2011e39ef5153153330782ca9482f130f37c9dcdba8e7fa583ee1"
+    },
+    {
+      "path": "ao2/tools/battle_ui_patch.py",
+      "size": 5832,
+      "sha256": "a83cc2328deb9d0e8387eb354c258e146703cb89f2e236de137c0209f75a71ee"
+    },
+    {
+      "path": "ao2/tools/build_font_prototype.py",
+      "size": 10065,
+      "sha256": "9b2657ae190ea0183453051eea73eeb455a821655ee7f78084493403845c63c1"
+    },
+    {
+      "path": "ao2/tools/build_release.py",
+      "size": 6689,
+      "sha256": "bfe13e727f58f957ff82f01896de36659351882f8636b86e85a979f1c077d119"
+    },
+    {
+      "path": "ao2/tools/build_ui_stage.py",
+      "size": 10302,
+      "sha256": "00bcaa963cf88da8aa73f3bf43a2075a40fd81feed55206dba0f2399a863b8ac"
+    },
+    {
+      "path": "ao2/tools/clock_labels.py",
+      "size": 1108,
+      "sha256": "c9ef2c91e831aace18b431a4a11245ed4ae8f12859dcdd5c7c097bba7d8589f1"
+    },
+    {
+      "path": "ao2/tools/codec.py",
+      "size": 1669,
+      "sha256": "5c8c5bd0e98321925540b22ceea2807769f9f77fc93e108b3d7eb771b61225bb"
+    },
+    {
+      "path": "ao2/tools/context_glyph_votes.py",
+      "size": 1193,
+      "sha256": "f4011706088f5c2b634e23ade76deded9c50adaa4d00cc9ed9ddf474dde88049"
+    },
+    {
+      "path": "ao2/tools/decode_text.py",
+      "size": 2243,
+      "sha256": "bf4affb48dabd347307fda2799af172cb0da783534a80fcd82afd7f5297b3899"
+    },
+    {
+      "path": "ao2/tools/dialogue_window.py",
+      "size": 1575,
+      "sha256": "097aeb2eb77ceaf27e586e18c9be3b61c5d3d72c952d1b8a6531d55b07b4d4a6"
+    },
+    {
+      "path": "ao2/tools/disasm.py",
+      "size": 1258,
+      "sha256": "d4a87587b815586c12a70c077b49de247c3e3256be04d4d3b552e304ac4e4cd4"
+    },
+    {
+      "path": "ao2/tools/extract_events.py",
+      "size": 2035,
+      "sha256": "7e051d02da67c75d7edc1b00aeaeffaf4548034bdee0e9f3edb7abb45bc333b3"
+    },
+    {
+      "path": "ao2/tools/extract_item_names.py",
+      "size": 1128,
+      "sha256": "3486fc69ceea39e1480518ebfd1c93bfb78743695384222e9d39fc9d01262d76"
+    },
+    {
+      "path": "ao2/tools/extract_resources.py",
+      "size": 2810,
+      "sha256": "62a8b2441f2f8ea11c3fafc4351f6b9ea4b2182f9a01967bb10b0e5bf0344eff"
+    },
+    {
+      "path": "ao2/tools/extract_ui_tiles.py",
+      "size": 1124,
+      "sha256": "fdbc94169c66f94fe0d1a537a58601169de9b3ed758f2e2142e93a73771c558f"
+    },
+    {
+      "path": "ao2/tools/field_ui_patch.py",
+      "size": 8801,
+      "sha256": "35e7513c936ca300d85d2be7eca7ce02fc20eac0ccd8b26ba6d32909e99305e5"
+    },
+    {
+      "path": "ao2/tools/font_context.py",
+      "size": 3267,
+      "sha256": "29dc4ad3f5209b8af594e7565699725b38a8d7e41e61a66ebd24eba562c2acf2"
+    },
+    {
+      "path": "ao2/tools/font_survey.py",
+      "size": 1767,
+      "sha256": "ca56e2605b1ef3f7df62140fe2f88a8c505652986431f99877337d5c936ab663"
+    },
+    {
+      "path": "ao2/tools/inventory_help.py",
+      "size": 1542,
+      "sha256": "ecca30c2b56d6fa494620bc6b0c3fc4c4396fb1da789d03179617d246252bfa1"
+    },
+    {
+      "path": "ao2/tools/inventory_patch.py",
+      "size": 5784,
+      "sha256": "891b93db895b3987d1c8c35e74badef79745066d100fa07131068dd6c686a842"
+    },
+    {
+      "path": "ao2/tools/item_list_layout.py",
+      "size": 1519,
+      "sha256": "04fef5ce26a94fa4dd0f83b0865cba737abf8d8c072140f3d38ebfcf4158adbc"
+    },
+    {
+      "path": "ao2/tools/manual_chartable.py",
+      "size": 6591,
+      "sha256": "eb155e006bdb6c7b4930be01dbcc55aa559f3ff16e6ea4861cabdc72c156575a"
+    },
+    {
+      "path": "ao2/tools/ocr.ps1",
+      "size": 2263,
+      "sha256": "2ddae9367712efade648d61951cd5ada30db9169c0f5111edc88072caaa77960"
+    },
+    {
+      "path": "ao2/tools/ocr_pages.ps1",
+      "size": 437,
+      "sha256": "f213f351ca1e5608ce4fd0bf6faac892cd5340f2d8313200bac7971ee55d36bd"
+    },
+    {
+      "path": "ao2/tools/page_glyph_cache.py",
+      "size": 1553,
+      "sha256": "c67cdf9d4fd6ce703e323de8762ce9b2019f8842f0703345a8de222e825c6093"
+    },
+    {
+      "path": "ao2/tools/plan_dialogue_layout.py",
+      "size": 2777,
+      "sha256": "812bfdd26d90a480f1a08402ef5f7241cacfb6119dfd3d37ac9674403eaf329b"
+    },
+    {
+      "path": "ao2/tools/preview_font_prototype.py",
+      "size": 1217,
+      "sha256": "548b5f6c7abd0f76fdc8160920dcc9d9c21aea515944527cb11c36a64a7f5e78"
+    },
+    {
+      "path": "ao2/tools/preview_ui_resources.py",
+      "size": 1106,
+      "sha256": "f4b101a64d97519ef73c2c14d6865b5166cdc14d554413f553e8d8967b82b7be"
+    },
+    {
+      "path": "ao2/tools/read_field_tiles.py",
+      "size": 513,
+      "sha256": "56329cde4a76ba0eec63fdea4fdc6a7e1280fbd16b1229fba43542ba05ae0570"
+    },
+    {
+      "path": "ao2/tools/render_source_pages.py",
+      "size": 924,
+      "sha256": "91d72e875737c7a42870e14ea7e5aba4048f8b3727ceb03ce3cc0c37bf37be86"
+    },
+    {
+      "path": "ao2/tools/run.py",
+      "size": 1904,
+      "sha256": "26e7d88074622bf5e9afa8b8ae73dfc71ff72e3a7f25e52abf88742793ae31e2"
+    },
+    {
+      "path": "ao2/tools/translation_data.py",
+      "size": 2141,
+      "sha256": "d6b7f0441b54819b6beabb7ea3faafbb5a3d68f960668adba19d257a5a6435cf"
+    },
+    {
+      "path": "ao2/tools/verify_battle_item_cpu.py",
+      "size": 2567,
+      "sha256": "95d1ebea1fa273ddc7b9f37a1aef0906f60f2b9d7603aec46e8483ce55baf326"
+    },
+    {
+      "path": "ao2/tools/verify_battle_ui_cpu.py",
+      "size": 4096,
+      "sha256": "a98c1ba61e83b267642f6edb3935287fad16b19adc820f96fd63951c35606061"
+    },
+    {
+      "path": "ao2/tools/verify_clock_cpu.py",
+      "size": 1975,
+      "sha256": "3e05c4597d094c97422ac8663d24c8eb8f1ba91ad5db463ab3b6fb4d2c62b24f"
+    },
+    {
+      "path": "ao2/tools/verify_dialogue_layout.py",
+      "size": 2225,
+      "sha256": "a9f5352cc33b99a0ed62cbe608a63195c4be324e51f5c394ab9e14002798571c"
+    },
+    {
+      "path": "ao2/tools/verify_dialogue_native_cpu.py",
+      "size": 4091,
+      "sha256": "dc178b3e4f06f1b869caa275a53012e4e98ddb0d83511a12638e15fbefd45a83"
+    },
+    {
+      "path": "ao2/tools/verify_field_ui_cpu.py",
+      "size": 3223,
+      "sha256": "0e82f520300e2a26584240fe0f19508989241406ea8f3bb513dc9a82f28e87dc"
+    },
+    {
+      "path": "ao2/tools/verify_font_contexts_cpu.py",
+      "size": 3189,
+      "sha256": "92619f9d6f1db12de1681c93d6a4a2bc5dd37d9ce4e2f28acf265f7298c31abd"
+    },
+    {
+      "path": "ao2/tools/verify_font_cpu.py",
+      "size": 2770,
+      "sha256": "27d7f3b2defa85828d9a8d72d23d436f3236608711b40cf545587ab272b317ba"
+    },
+    {
+      "path": "ao2/tools/verify_item_list_cpu.py",
+      "size": 3710,
+      "sha256": "b51e0cd2f1c8bb2938301588cd7eb455d6a937da115bba63d6197dbeab893c0e"
+    },
+    {
+      "path": "ao2/tools/verify_page_glyph_cache.py",
+      "size": 3777,
+      "sha256": "10a8a60788bb002bb55b822b52f460bc4502e819f292b4eead0e37803509e11c"
+    },
+    {
+      "path": "ao2/tools/verify_static_font_cpu.py",
+      "size": 2110,
+      "sha256": "63926016b86e008e9018ecea125d5c9549b64062f9fe10076558a8442fbb278a"
+    },
+    {
+      "path": "ao2/tools/verify_ui_cpu.py",
+      "size": 4042,
+      "sha256": "a66e8a323e73acc2ff148aa1fa05054093e33e3a55c8ea0795e5c4dc0efd05bc"
+    },
+    {
+      "path": "ao2/translation/chartable_fixes.json",
+      "size": 14366,
+      "sha256": "50393629796331e2cdf8d6b406e2b871a84419ad8fdb914389e116d8ec5e6831"
+    },
+    {
+      "path": "ao2/translation/chartable_review_pending.json",
+      "size": 1006,
+      "sha256": "4bfc5f704f3d5e4943760a2442cad28a7ef709ec4e02763708d37dd001b6042c"
+    },
+    {
+      "path": "ao2/translation/dialogue_0000_0134.ko.txt",
+      "size": 6578,
+      "sha256": "3d6fe3c95f5a5abf647522403ab8c612e62822cb3b9f908f415953e2631954d6"
+    },
+    {
+      "path": "ao2/translation/dialogue_0135_0254.ko.txt",
+      "size": 6751,
+      "sha256": "a8eb382f90e88612bc1d3da9daf897a1fe4230e3c2719ff95a8d36db0d4fb3fd"
+    },
+    {
+      "path": "ao2/translation/dialogue_0255_0389.ko.txt",
+      "size": 7849,
+      "sha256": "324eba072a07f8ad9202361394e41ae8a77716a9b31ea6f4b8151c23e30d256a"
+    },
+    {
+      "path": "ao2/translation/dialogue_0390_0504.ko.txt",
+      "size": 6123,
+      "sha256": "56b82c9791e90214f7f400fb56c3e03e67464f3e8a3789083e31fefbbcf7f8a4"
+    },
+    {
+      "path": "ao2/translation/dialogue_0505_0634.ko.txt",
+      "size": 7665,
+      "sha256": "02a27cc4d208d34e531a30dd2174dd8ad64c9a2fe8f4f14503a3b35cc8006aac"
+    },
+    {
+      "path": "ao2/translation/dialogue_0635_0764.ko.txt",
+      "size": 6116,
+      "sha256": "0b502ead4b48faf6715ebc5f9ece9b92da86548a0e7be9eebaf63e8089423ec2"
+    },
+    {
+      "path": "ao2/translation/dialogue_0765_0899.ko.txt",
+      "size": 6744,
+      "sha256": "1a4010d672a8c5690c4488b9dd133415d02a01a5ebb08d1ed40f83172bbd3c97"
+    },
+    {
+      "path": "ao2/translation/dialogue_0900_1049.ko.txt",
+      "size": 8135,
+      "sha256": "084066b181833659733481e794ba23f0b9ddcd7d5db4710f543f1c0c35f1bf22"
+    },
+    {
+      "path": "ao2/translation/dialogue_1050_1198.ko.txt",
+      "size": 7773,
+      "sha256": "afc510adc3c3bde83e2b06bfac48e4d0cec8b51d72ac26bfe0977f47224170cc"
+    },
+    {
+      "path": "ao2/translation/dialogue_1199_1349.ko.txt",
+      "size": 9291,
+      "sha256": "c19e99807143b12d88f94d5df91f1c6bf84792d210dfd1b19e108927891ddcc9"
+    },
+    {
+      "path": "ao2/translation/dialogue_1350_1549.ko.txt",
+      "size": 11794,
+      "sha256": "83c8178cd3b7ccdfa01e643813943be8a023c0e6acf08918473d393e39727756"
+    },
+    {
+      "path": "ao2/translation/dialogue_1550_1749.ko.txt",
+      "size": 11362,
+      "sha256": "37d49b6652caa2dfa5a70b042e4db688a6ad45bad8bd32cdccdd8033fbc03935"
+    },
+    {
+      "path": "ao2/translation/dialogue_1750_1949.ko.txt",
+      "size": 11178,
+      "sha256": "8770168c46d760be4c31adfc68748ae846ed3ae87c96d82877c3e6dc9f636a96"
+    },
+    {
+      "path": "ao2/translation/dialogue_1950_2130.ko.txt",
+      "size": 9789,
+      "sha256": "9264ffafcc31f327b27f0cb9d5b6c99386d5cc1d585e5bbbe9947545c5616739"
+    },
+    {
+      "path": "ao2/translation/glossary.json",
+      "size": 3457,
+      "sha256": "9c634ffebd97c7bede7292a4b95f8e1cff5a97408708dbb75c42f435a93dc508"
+    },
+    {
+      "path": "ao2/translation/item_names.ko.txt",
+      "size": 3902,
+      "sha256": "9586630c33a21b3cb83f7ea15380975bf9e01f966f1e623982479c7e469a78f6"
+    },
+    {
+      "path": "ao2/translation/layout_candidates.json",
+      "size": 38185,
+      "sha256": "7d85a07cd7de2bc326d85b5f43854d41141094a172073be9c5f961ce97ba5a4a"
+    },
+    {
+      "path": "ao2/translation/menu_tilemaps.ko.json",
+      "size": 3990,
+      "sha256": "fa6f8a4a859e4139025de6204b0fdc739d1abfc00cd896878472530c102f8f5b"
+    },
+    {
+      "path": "ao2/translation/review_changes.json",
+      "size": 2380,
+      "sha256": "5e5481d95fe50d5fc0c2653f9a612fdf3373e235d13d47266bf16c0f333992c8"
+    },
+    {
+      "path": "ao2/translation/ui.ko.json",
+      "size": 8919,
+      "sha256": "2e20db4ae4fc93ccbc192fd4d1bf06d1d420e27799712d88d12a1a8b0d7891d3"
+    },
+    {
+      "path": "ao2/translation/ui_tiles.ko.json",
+      "size": 16085,
+      "sha256": "d763a3aee2cc59d3057f910b201c9cef97f3c9bd47322a860680b8b0dcc07164"
+    },
+    {
+      "path": "ao2/translation/인명표기.md",
+      "size": 1460,
+      "sha256": "585ba2909c960db33876ae21d2de974a600117297385c69fb2ce175f7fd294e5"
+    },
+    {
+      "path": "ao2/translation/판독참고.md",
+      "size": 729,
+      "sha256": "67c8f78ecc3cd634c9173e1fe18abd5fa0bc8ef84a2f21fc836e36169ef0f95d"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size": 494,
+      "sha256": "9f8a4f34cdc0c8822dbd1828a92d8ca54ad226815edb6bd4392786bd755ace23"
+    },
+    {
+      "path": "docs/BUILD.md",
+      "size": 1314,
+      "sha256": "5da7ce7421d2a79aceebc7f859b048e8d4181cfe9844217eaec761129deec445"
+    },
+    {
+      "path": "README.md",
+      "size": 4297,
+      "sha256": "e6ca0c19773ef79b129115ed0287d1e5f57ebb7d060a2ec6811928ac7e1f2696"
+    },
+    {
+      "path": "RIGHTS.md",
+      "size": 775,
+      "sha256": "4460130d20b3c21c682b19d9a06e33c95bd425a2b32bafdb3f4ab36db6bbce02"
+    },
+    {
+      "path": "tools/apply_release.py",
+      "size": 2224,
+      "sha256": "2448a9a7ba126e8a5ffa86519bab616bb98beca29e8033c96c6e2c9194f911c7"
+    },
+    {
+      "path": "validation/release.json",
+      "size": 732,
+      "sha256": "90d869df394528570f32bcf35457bccf27b55c748d70a41b2c76beabfdc9352e"
+    }
+  ],
+  "release_asset": {
+    "filename": "Albert Odyssey 2 - Korean Full v06.xdelta",
+    "size": 104933,
+    "md5": "79702743b11d687dda217f5e56df71c7",
+    "sha256": "3603f4843c4d3d90ebf173a8577c6dc1ae561369dd02779075fe5b8d2b9001ef"
+  },
+  "excluded": [
+    "ROM",
+    "binary dumps",
+    "font files",
+    "executables",
+    "save states"
+  ]
+}

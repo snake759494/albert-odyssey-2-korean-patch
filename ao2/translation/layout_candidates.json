@@ -1,0 +1,1488 @@
+[
+  {
+    "id": "dialogue_0000",
+    "korean": "고트 8세「…잘해 주었다, 용사 알버트여!」",
+    "candidate_pages": [
+      [
+        "고트 8세「…잘해 주었다, 용사 알버트여!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0001",
+    "korean": "「그 그로바스를 쓰러뜨리다니…",
+    "candidate_pages": [
+      [
+        "「그 그로바스를 쓰러뜨리다니…"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0002",
+    "korean": " 이제 고트 왕국에도 평화가 돌아오겠구나.」",
+    "candidate_pages": [
+      [
+        " 이제 고트 왕국에도 평화가 돌아오겠구나.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0003",
+    "korean": "「어떠냐…",
+    "candidate_pages": [
+      [
+        "「어떠냐…"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0004",
+    "korean": " 이곳에 남아 짐을 도와주지 않겠느냐?」",
+    "candidate_pages": [
+      [
+        " 이곳에 남아 짐을 도와주지 않겠느냐?」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0005",
+    "korean": "알버트「…아닙니다. 어머니께 무사하다고 알린 뒤,",
+    "candidate_pages": [
+      [
+        "알버트「…아닙니다. 어머니께 무사하다고 알린 뒤,"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0006",
+    "korean": " 세상을 두루 여행하고 싶습니다.」",
+    "candidate_pages": [
+      [
+        " 세상을 두루 여행하고 싶습니다.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0007",
+    "korean": "노이만「알버트, 나도 치베리스까지 함께 갈게!」",
+    "candidate_pages": [
+      [
+        "노이만「알버트, 나도 치베리스까지 함께 갈게!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0008",
+    "korean": "고트 8세「그런가…아쉽구나…」",
+    "candidate_pages": [
+      [
+        "고트 8세「그런가…아쉽구나…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0009",
+    "korean": "알버트「그럼 이만 물러가겠습니다.」",
+    "candidate_pages": [
+      [
+        "알버트「그럼 이만 물러가겠습니다.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0010",
+    "korean": "소피아「국왕 폐하…」",
+    "candidate_pages": [
+      [
+        "소피아「국왕 폐하…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0011",
+    "korean": "고트 8세「음…네 마음은",
+    "candidate_pages": [
+      [
+        "고트 8세「음…네 마음은"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0012",
+    "korean": " 잘 알고 있다. 어서 따라가거라!」",
+    "candidate_pages": [
+      [
+        " 잘 알고 있다. 어서 따라가거라!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0013",
+    "korean": "슬레이「몸조심해라…」",
+    "candidate_pages": [
+      [
+        "슬레이「몸조심해라…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0014",
+    "korean": "소피아「폐하! 슬레이 아버님…",
+    "candidate_pages": [
+      [
+        "소피아「폐하! 슬레이 아버님…"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0015",
+    "korean": " 그동안…정말 감사했습니다.」",
+    "candidate_pages": [
+      [
+        " 그동안…정말 감사했습니다.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0016",
+    "korean": "소피아「기다려…기다려요! 알버트!」",
+    "candidate_pages": [
+      [
+        "소피아「기다려…기다려요! 알버트!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0017",
+    "korean": "「저도…함께 데려가 주세요!」",
+    "candidate_pages": [
+      [
+        "「저도…함께 데려가 주세요!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0018",
+    "korean": "알버트「소피아…」",
+    "candidate_pages": [
+      [
+        "알버트「소피아…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0019",
+    "korean": "노이만「앗!」",
+    "candidate_pages": [
+      [
+        "노이만「앗!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0020",
+    "korean": "「위험해! 알버트…」",
+    "candidate_pages": [
+      [
+        "「위험해! 알버트…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0021",
+    "korean": "알버트·소피아「노…노이마아안!!」",
+    "candidate_pages": [
+      [
+        "알버트·소피아「노…노이마아안!!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0022",
+    "korean": "알버트「대체…무슨 일이 일어난 거지?!」",
+    "candidate_pages": [
+      [
+        "알버트「대체…무슨 일이 일어난 거지?!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0023",
+    "korean": "그로바스「나는 죽지 않는다…」",
+    "candidate_pages": [
+      [
+        "그로바스「나는 죽지 않는다…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0024",
+    "korean": "알버트「그로바스?!」",
+    "candidate_pages": [
+      [
+        "알버트「그로바스?!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0025",
+    "korean": "알버트「마…말도 안 돼!!」",
+    "candidate_pages": [
+      [
+        "알버트「마…말도 안 돼!!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0026",
+    "korean": "그로바스「애송이, 죽어라…」",
+    "candidate_pages": [
+      [
+        "그로바스「애송이, 죽어라…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0027",
+    "korean": "소피아「꺄아아악!!」",
+    "candidate_pages": [
+      [
+        "소피아「꺄아아악!!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0028",
+    "korean": "알버트「소피아?!」",
+    "candidate_pages": [
+      [
+        "알버트「소피아?!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0029",
+    "korean": "「소피아아아!!」",
+    "candidate_pages": [
+      [
+        "「소피아아아!!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0030",
+    "korean": "음유시인「…세상에 가득한 슬픔, 영원히 전해지리…",
+    "candidate_pages": [
+      [
+        "음유시인「…세상에 가득한 슬픔, 영원히 전해지리…"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0031",
+    "korean": " 이것이 새 영웅을 기리는 노래로다!」",
+    "candidate_pages": [
+      [
+        " 이것이 새 영웅을 기리는 노래로다!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0032",
+    "korean": "기사「왕비님…안 됩니다! 따돌릴 수가 없습니다!」",
+    "candidate_pages": [
+      [
+        "기사「왕비님…안 됩니다! 따돌릴 수가 없습니다!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0033",
+    "korean": "유나「어머니!」",
+    "candidate_pages": [
+      [
+        "유나「어머니!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0034",
+    "korean": "왕비「유나! 침착해야 한다…」",
+    "candidate_pages": [
+      [
+        "왕비「유나! 침착해야 한다…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0035",
+    "korean": "드라군 A「거기 서라!」",
+    "candidate_pages": [
+      [
+        "드라군 A「거기 서라!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0036",
+    "korean": "드라군 B「왕녀는 산 채로 데려오라는 명령이다!",
+    "candidate_pages": [
+      [
+        "드라군 B「왕녀는 산 채로 데려오라는 명령이다!"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0037",
+    "korean": " …비룡을 노려라! 빗맞히지 마라!」",
+    "candidate_pages": [
+      [
+        " …비룡을 노려라! 빗맞히지 마라!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0038",
+    "korean": "마법사「알겠다.」",
+    "candidate_pages": [
+      [
+        "마법사「알겠다.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0039",
+    "korean": "기사「크윽…」",
+    "candidate_pages": [
+      [
+        "기사「크윽…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0040",
+    "korean": "왕비「유나!!」",
+    "candidate_pages": [
+      [
+        "왕비「유나!!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0041",
+    "korean": "유나「꺄아아아악!!」",
+    "candidate_pages": [
+      [
+        "유나「꺄아아아악!!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0042",
+    "korean": "와이즈맨「…자세를 낮춰라! 손목에 힘을 실어야지!」",
+    "candidate_pages": [
+      [
+        "와이즈맨「…자세를 낮춰라! 손목에 힘을 실어야지!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0043",
+    "korean": "{PLAYER}「네…네엣!」",
+    "candidate_pages": [
+      [
+        "{PLAYER}「네…네엣!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0044",
+    "korean": "와이즈맨「{PLAYER}…네 아버지 라이아모스는",
+    "candidate_pages": [
+      [
+        "와이즈맨「{PLAYER}…네 아버지 라이아모스는"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0045",
+    "korean": " 반역자였지만, 검술만큼은 일류였지!」",
+    "candidate_pages": [
+      [
+        " 반역자였지만, 검술만큼은 일류였지!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0046",
+    "korean": "{PLAYER}「와이즈맨 기사장님!? 저건 뭔가요?」",
+    "candidate_pages": [
+      [
+        "{PLAYER}「와이즈맨 기사장님!? 저건 뭔가요?」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0047",
+    "korean": "와이즈맨「?????」",
+    "candidate_pages": [
+      [
+        "와이즈맨「?????」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0048",
+    "korean": "와이즈맨「아니…비룡인가?! 사람이 타고 있구나!」",
+    "candidate_pages": [
+      [
+        "와이즈맨「아니…비룡인가?! 사람이 타고 있구나!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0049",
+    "korean": "와이즈맨「큰일이다! 묘지에 떨어졌어!」",
+    "candidate_pages": [
+      [
+        "와이즈맨「큰일이다! 묘지에 떨어졌어!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0050",
+    "korean": "{PLAYER}「기사장님! 또 날아와요…」",
+    "candidate_pages": [
+      [
+        "{PLAYER}「기사장님! 또 날아와요…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0051",
+    "korean": "{PLAYER}「…기사장님! 가 보죠!」",
+    "candidate_pages": [
+      [
+        "{PLAYER}「…기사장님! 가 보죠!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0052",
+    "korean": "와이즈맨「이 녀석! {PLAYER}, 기다려라!」",
+    "candidate_pages": [
+      [
+        "와이즈맨「이 녀석! {PLAYER}, 기다려라!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0053",
+    "korean": "폰「유나 왕녀를 찾았습니다…살아 있습니다!」",
+    "candidate_pages": [
+      [
+        "폰「유나 왕녀를 찾았습니다…살아 있습니다!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0054",
+    "korean": "마법사「좋아, 붙잡아라!」",
+    "candidate_pages": [
+      [
+        "마법사「좋아, 붙잡아라!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0055",
+    "korean": "유나「윽…으으…」",
+    "candidate_pages": [
+      [
+        "유나「윽…으으…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0056",
+    "korean": "「너희, 무슨 짓이냐?!」",
+    "candidate_pages": [
+      [
+        "「너희, 무슨 짓이냐?!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0057",
+    "korean": "마법사「쳇…들켰군. 죽여라!」",
+    "candidate_pages": [
+      [
+        "마법사「쳇…들켰군. 죽여라!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0058",
+    "korean": "폰「예!」",
+    "candidate_pages": [
+      [
+        "폰「예!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0059",
+    "korean": "와이즈맨「이놈들!」",
+    "candidate_pages": [
+      [
+        "와이즈맨「이놈들!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0060",
+    "korean": "「내가 바로 고트 왕국에서 이름을 떨친,",
+    "candidate_pages": [
+      [
+        "「내가 바로 고트 왕국에서 이름을 떨친,"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0061",
+    "korean": " 기사장 와이즈맨이니라!」",
+    "candidate_pages": [
+      [
+        " 기사장 와이즈맨이니라!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0062",
+    "korean": "「기사장님, 갑니다!」",
+    "candidate_pages": [
+      [
+        "「기사장님, 갑니다!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0063",
+    "korean": "와이즈맨「……」",
+    "candidate_pages": [
+      [
+        "와이즈맨「……」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0064",
+    "korean": "마술사장「흠…드넓은 바다 너머 동쪽 나라,",
+    "candidate_pages": [
+      [
+        "마술사장「흠…드넓은 바다 너머 동쪽 나라,"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0065",
+    "korean": " 루크레난에는 비룡을 소환하는 술법이 있다더군…」",
+    "candidate_pages": [
+      [
+        " 루크레난에는 비룡을 소환하는 술법이 있다더군…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0066",
+    "korean": "슬레이 장군「음! 그대들이 본 자들은",
+    "candidate_pages": [
+      [
+        "슬레이 장군「음! 그대들이 본 자들은"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0067",
+    "korean": " 루크레난의 정예 부대, 드라군일 것이오.」",
+    "candidate_pages": [
+      [
+        " 루크레난의 정예 부대, 드라군일 것이오.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0068",
+    "korean": "대사제「폐하…안타깝지만, 이분은…」",
+    "candidate_pages": [
+      [
+        "대사제「폐하…안타깝지만, 이분은…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0069",
+    "korean": "왕비「누…누구신가요?!」",
+    "candidate_pages": [
+      [
+        "왕비「누…누구신가요?!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0070",
+    "korean": "{PLAYER}「무리하시면 안 돼요!」",
+    "candidate_pages": [
+      [
+        "{PLAYER}「무리하시면 안 돼요!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0071",
+    "korean": "왕비「제 딸은…유나는 무사한가요?」",
+    "candidate_pages": [
+      [
+        "왕비「제 딸은…유나는 무사한가요?」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0072",
+    "korean": "{PLAYER}「따님은 무사해요.」",
+    "candidate_pages": [
+      [
+        "{PLAYER}「따님은 무사해요.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0073",
+    "korean": "왕비「다행이군요…저는 태양 왕국 루크레난의",
+    "candidate_pages": [
+      [
+        "왕비「다행이군요…저는 태양 왕국 루크레난의"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0074",
+    "korean": " 왕비…레나 브리에 루크레난입니다.」",
+    "candidate_pages": [
+      [
+        " 왕비…레나 브리에 루크레난입니다.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0075",
+    "korean": "고트 9세「뭐라고!? 루크레난 왕실 분이셨소…」",
+    "candidate_pages": [
+      [
+        "고트 9세「뭐라고!? 루크레난 왕실 분이셨소…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0076",
+    "korean": "왕비「제 딸을! 제 딸 유나를 지켜 주세요…",
+    "candidate_pages": [
+      [
+        "왕비「제 딸을! 제 딸 유나를 지켜 주세요…"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0077",
+    "korean": " 부디…레디슈 추기경의 마수로부터…」",
+    "candidate_pages": [
+      [
+        " 부디…레디슈 추기경의 마수로부터…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0078",
+    "korean": "{PLAYER}「…레디슈 추기경?」",
+    "candidate_pages": [
+      [
+        "{PLAYER}「…레디슈 추기경?」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0079",
+    "korean": "「레디슈 추기경이 대체 누구죠?」",
+    "candidate_pages": [
+      [
+        "「레디슈 추기경이 대체 누구죠?」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0080",
+    "korean": "왕비「…구해…주세요……」",
+    "candidate_pages": [
+      [
+        "왕비「…구해…주세요……」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0081",
+    "korean": "대사제「…숨을 거두셨습니다.」",
+    "candidate_pages": [
+      [
+        "대사제「…숨을 거두셨습니다.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0082",
+    "korean": "고트 9세「레나 왕비…대체…",
+    "candidate_pages": [
+      [
+        "고트 9세「레나 왕비…대체…"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0083",
+    "korean": " 루크레난에서 무슨 일이 있었던 게요?!」",
+    "candidate_pages": [
+      [
+        " 루크레난에서 무슨 일이 있었던 게요?!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0084",
+    "korean": "슬레이 장군「수고했다. 이제 물러가도 좋다…",
+    "candidate_pages": [
+      [
+        "슬레이 장군「수고했다. 이제 물러가도 좋다…"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0085",
+    "korean": " 이 일은 절대로 입 밖에 내지 마라!」",
+    "candidate_pages": [
+      [
+        " 이 일은 절대로 입 밖에 내지 마라!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0086",
+    "korean": "마술사장「동쪽의 대국…태양 왕국 루크레난이라…」",
+    "candidate_pages": [
+      [
+        "마술사장「동쪽의 대국…태양 왕국 루크레난이라…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0087",
+    "korean": "대사제「오, 신이시여…이 영혼에 자비의 빛을 비추소서!」",
+    "candidate_pages": [
+      [
+        "대사제「오, 신이시여…이 영혼에 자비의 빛을 비추소서!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0088",
+    "korean": "와이즈맨「{PLAYER}, 숙소를 잡고 푹 쉬거라.」",
+    "candidate_pages": [
+      [
+        "와이즈맨「{PLAYER}, 숙소를 잡고 푹 쉬거라.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0089",
+    "korean": "유나「…으…어…어머니……」",
+    "candidate_pages": [
+      [
+        "유나「…으…어…어머니……」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0090",
+    "korean": "{PLAYER}「유나 왕녀를 지켜 달라니…」",
+    "candidate_pages": [
+      [
+        "{PLAYER}「유나 왕녀를 지켜 달라니…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0091",
+    "korean": "「우리 고트 기사단의 임무는 마물로부터 사람들을 지키는 것!",
+    "candidate_pages": [
+      [
+        "「우리 고트 기사단의 임무는 마물로부터 사람들을 지키는 것",
+        "!"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0092",
+    "korean": " 결코 다른 나라를 침략하는 것이 아니다!」",
+    "candidate_pages": [
+      [
+        " 결코 다른 나라를 침략하는 것이 아니다!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0093",
+    "korean": "「10년 전 전쟁은 사악한 마도사 오즈왈드가 고트",
+    "candidate_pages": [
+      [
+        "「10년 전 전쟁은 사악한 마도사 오즈왈드가 고트"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0094",
+    "korean": " 왕국을 정복하려고 쳐들어오면서 일어났지…지금은",
+    "candidate_pages": [
+      [
+        " 왕국을 정복하려고 쳐들어오면서 일어났지…지금은"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0095",
+    "korean": " 마도 전쟁이라고 부른다.」",
+    "candidate_pages": [
+      [
+        " 마도 전쟁이라고 부른다.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0096",
+    "korean": "「신성 십자군을 이끌고 오즈왈드의 편에 선 자가",
+    "candidate_pages": [
+      [
+        "「신성 십자군을 이끌고 오즈왈드의 편에 선 자가"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0097",
+    "korean": " 반역자 라이아모스다…바로 네 아버지지!」",
+    "candidate_pages": [
+      [
+        " 반역자 라이아모스다…바로 네 아버지지!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0098",
+    "korean": "「{PLAYER}…네게 원한은 없지만, 용서할 생각도 없다.",
+    "candidate_pages": [
+      [
+        "「{PLAYER}…네게 원한은 없지만, 용서할 생각도 없다."
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0099",
+    "korean": " 10년 전, 라이아모스 때문에 친구를 잃었으니까.」",
+    "candidate_pages": [
+      [
+        " 10년 전, 라이아모스 때문에 친구를 잃었으니까.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0100",
+    "korean": "「오늘 알현은 끝났습니다. 내일 다시 오십시오.」",
+    "candidate_pages": [
+      [
+        "「오늘 알현은 끝났습니다. 내일 다시 오십시오.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0101",
+    "korean": "「슬레이 장군님은 예전에 기사단장이셨지…게다가 그",
+    "candidate_pages": [
+      [
+        "「슬레이 장군님은 예전에 기사단장이셨지…게다가 그"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0102",
+    "korean": " 용사 알버트와 함께 오즈왈드에 맞서 싸우셨다!」",
+    "candidate_pages": [
+      [
+        " 용사 알버트와 함께 오즈왈드에 맞서 싸우셨다!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0103",
+    "korean": "「슬레이 장군님은 마도 전쟁 후 장군이 되셨지.",
+    "candidate_pages": [
+      [
+        "「슬레이 장군님은 마도 전쟁 후 장군이 되셨지."
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0104",
+    "korean": " 지금은 돌아가신 고트 8세의 유언을 따르신 거야…",
+    "candidate_pages": [
+      [
+        " 지금은 돌아가신 고트 8세의 유언을 따르신 거야…"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0105",
+    "korean": " 사실은 평생 한 사람의 기사로 남고 싶어 하셨지만.」",
+    "candidate_pages": [
+      [
+        " 사실은 평생 한 사람의 기사로 남고 싶어 하셨지만.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0106",
+    "korean": "「10년 전 마도 전쟁은 용사 알버트 덕분에 우리가",
+    "candidate_pages": [
+      [
+        "「10년 전 마도 전쟁은 용사 알버트 덕분에 우리가"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0107",
+    "korean": " 승리했지…그런 비극이 다시 일어나지 않도록",
+    "candidate_pages": [
+      [
+        " 승리했지…그런 비극이 다시 일어나지 않도록"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0108",
+    "korean": " 날마다 경계를 늦추지 않고 있다!」",
+    "candidate_pages": [
+      [
+        " 날마다 경계를 늦추지 않고 있다!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0109",
+    "korean": "「용사 알버트 덕분에 고트 왕국에도 평화가 돌아왔지.",
+    "candidate_pages": [
+      [
+        "「용사 알버트 덕분에 고트 왕국에도 평화가 돌아왔지."
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0110",
+    "korean": " 이제 경비는 필요 없을 것 같은데…」",
+    "candidate_pages": [
+      [
+        " 이제 경비는 필요 없을 것 같은데…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0111",
+    "korean": " ",
+    "candidate_pages": [
+      [
+        " "
+      ]
+    ],
+    "type": "blank_control_record",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0112",
+    "korean": "「저는 성의 경비를 강화하고 있습니다.」",
+    "candidate_pages": [
+      [
+        "「저는 성의 경비를 강화하고 있습니다.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0113",
+    "korean": "「나는 이 망루에서 고트 왕국에 이상이 없는지",
+    "candidate_pages": [
+      [
+        "「나는 이 망루에서 고트 왕국에 이상이 없는지"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0114",
+    "korean": " 날마다 살피고 있다…아주 중요한 임무지!」",
+    "candidate_pages": [
+      [
+        " 날마다 살피고 있다…아주 중요한 임무지!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0115",
+    "korean": "「국왕의 명에 따라 문을 닫았다.」",
+    "candidate_pages": [
+      [
+        "「국왕의 명에 따라 문을 닫았다.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0116",
+    "korean": "「오늘도 별일 없이 지나가겠군…」",
+    "candidate_pages": [
+      [
+        "「오늘도 별일 없이 지나가겠군…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0117",
+    "korean": "「끼이이익!!」",
+    "candidate_pages": [
+      [
+        "「끼이이익!!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0118",
+    "korean": "「냐아아옹!」",
+    "candidate_pages": [
+      [
+        "「냐아아옹!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0119",
+    "korean": "「안녕, {PLAYER}! 잘 지내니?」",
+    "candidate_pages": [
+      [
+        "「안녕, {PLAYER}! 잘 지내니?」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0120",
+    "korean": "「뭐야, {PLAYER}? 검술 연습은 안 해도 돼?」",
+    "candidate_pages": [
+      [
+        "「뭐야, {PLAYER}? 검술 연습은 안 해도 돼?」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0121",
+    "korean": "「저는 동쪽 마우리나에서 순례를 왔습니다.",
+    "candidate_pages": [
+      [
+        "「저는 동쪽 마우리나에서 순례를 왔습니다."
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0122",
+    "korean": " 목적지인 치베리스는 바로 서쪽이지요. 이제 코앞이군요!」",
+    "candidate_pages": [
+      [
+        " 목적지인 치베리스는 바로 서쪽이지요. 이제 코앞이군요!」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0123",
+    "korean": "「아아! 아래 술집이 너무 시끄러워 잠을 못 자겠어…」",
+    "candidate_pages": [
+      [
+        "「아아! 아래 술집이 너무 시끄러워 잠을 못 자겠어…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0124",
+    "korean": "「어서 오세요. 무엇을 도와드릴까요?」",
+    "candidate_pages": [
+      [
+        "「어서 오세요. 무엇을 도와드릴까요?」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0125",
+    "korean": "  방을 쓰고 싶어요",
+    "candidate_pages": [
+      [
+        "  방을 쓰고 싶어요"
+      ]
+    ],
+    "type": "choice_label",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0126",
+    "korean": "  저장하고 싶어요",
+    "candidate_pages": [
+      [
+        "  저장하고 싶어요"
+      ]
+    ],
+    "type": "choice_label",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0127",
+    "korean": "「어느 쪽이든 5골드입니다.」",
+    "candidate_pages": [
+      [
+        "「어느 쪽이든 5골드입니다.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0128",
+    "korean": "  숙박",
+    "candidate_pages": [
+      [
+        "  숙박"
+      ]
+    ],
+    "type": "choice_label",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0129",
+    "korean": "  휴식",
+    "candidate_pages": [
+      [
+        "  휴식"
+      ]
+    ],
+    "type": "choice_label",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0130",
+    "korean": "「이용해 주셔서 감사합니다…」",
+    "candidate_pages": [
+      [
+        "「이용해 주셔서 감사합니다…」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0131",
+    "korean": "「지금까지의 모험을 기록할까요?」",
+    "candidate_pages": [
+      [
+        "「지금까지의 모험을 기록할까요?」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0132",
+    "korean": "  예",
+    "candidate_pages": [
+      [
+        "  예"
+      ]
+    ],
+    "type": "choice_label",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0133",
+    "korean": "  아니요",
+    "candidate_pages": [
+      [
+        "  아니요"
+      ]
+    ],
+    "type": "choice_label",
+    "event_group_layout_verified": false
+  },
+  {
+    "id": "dialogue_0134",
+    "korean": "「그럼 숙박부에 적어 주세요.」",
+    "candidate_pages": [
+      [
+        "「그럼 숙박부에 적어 주세요.」"
+      ]
+    ],
+    "type": "dialogue",
+    "event_group_layout_verified": false
+  }
+]

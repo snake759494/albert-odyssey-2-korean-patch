@@ -1,0 +1,7 @@
+{
+  "scope": "isolated injected instructions; no game or PPU execution",
+  "cases_passed": 1653,
+  "max_instructions_per_case": 467,
+  "stack_register_tile_and_write_boundary_checks": true,
+  "overflow_policy": "preserve native path at 56 unique glyphs; release must prevent such pages"
+}

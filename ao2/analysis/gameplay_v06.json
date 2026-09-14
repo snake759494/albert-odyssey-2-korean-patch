@@ -1,0 +1,104 @@
+{
+  "scope": "Actual unmodified game execution through Snes9x libretro joypad input, not isolated diagnostic entry points. Reset through first battle, menu paths, two attack types and enemy turn. No ending playthrough.",
+  "sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5",
+  "cases": [
+    {
+      "case": "오프닝·이름 입력 후 첫 전투",
+      "screenshot": "ao2\\analysis\\playtest_v06_final\\frame0001.png",
+      "input_log": "ao2\\analysis\\playtest_v06_final\\steps.jsonl",
+      "step": 1,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "상태와 능력치",
+      "screenshot": "ao2\\analysis\\playtest_v06_final\\frame0002.png",
+      "input_log": "ao2\\analysis\\playtest_v06_final\\steps.jsonl",
+      "step": 2,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "도로 지형",
+      "screenshot": "ao2\\analysis\\playtest_v06_final\\frame0003.png",
+      "input_log": "ao2\\analysis\\playtest_v06_final\\steps.jsonl",
+      "step": 3,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "언덕 지형",
+      "screenshot": "ao2\\analysis\\playtest_v06_final\\frame0004.png",
+      "input_log": "ao2\\analysis\\playtest_v06_final\\steps.jsonl",
+      "step": 4,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "삼림 지형",
+      "screenshot": "ao2\\analysis\\playtest_v06_final\\frame0005.png",
+      "input_log": "ao2\\analysis\\playtest_v06_final\\steps.jsonl",
+      "step": 5,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "특수 기술 목록",
+      "screenshot": "ao2\\analysis\\playtest_v06_final_skill\\frame0001.png",
+      "input_log": "ao2\\analysis\\playtest_v06_final_skill\\steps.jsonl",
+      "step": 1,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "도구 안내와 빈 목록 정리",
+      "screenshot": "ao2\\analysis\\playtest_v06_final_item\\frame0001.png",
+      "input_log": "ao2\\analysis\\playtest_v06_final_item\\steps.jsonl",
+      "step": 1,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "장비 화면",
+      "screenshot": "ao2\\analysis\\playtest_v06_final_equipment\\frame0001.png",
+      "input_log": "ao2\\analysis\\playtest_v06_final_equipment\\steps.jsonl",
+      "step": 1,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "동료 목록과 시각",
+      "screenshot": "ao2\\analysis\\playtest_v06_final_party\\frame0001.png",
+      "input_log": "ao2\\analysis\\playtest_v06_final_party\\steps.jsonl",
+      "step": 1,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "일반 공격과 명중률",
+      "screenshot": "ao2\\analysis\\playtest_v06_release\\frame0001.png",
+      "input_log": "ao2\\analysis\\playtest_v06_release\\steps.jsonl",
+      "step": 1,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "적의 반격",
+      "screenshot": "ao2\\analysis\\playtest_v06_release\\frame0002.png",
+      "input_log": "ao2\\analysis\\playtest_v06_release\\steps.jsonl",
+      "step": 2,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "적의 턴 이후 필드 복귀",
+      "screenshot": "ao2\\analysis\\playtest_v06_release\\frame0003.png",
+      "input_log": "ao2\\analysis\\playtest_v06_release\\steps.jsonl",
+      "step": 3,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "기합베기 사용",
+      "screenshot": "ao2\\analysis\\playtest_v06_release_skill\\frame0001.png",
+      "input_log": "ao2\\analysis\\playtest_v06_release_skill\\steps.jsonl",
+      "step": 1,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    },
+    {
+      "case": "기술 사용 후 정신력 1 감소",
+      "screenshot": "ao2\\analysis\\playtest_v06_release_skill\\frame0002.png",
+      "input_log": "ao2\\analysis\\playtest_v06_release_skill\\steps.jsonl",
+      "step": 2,
+      "rom_sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+    }
+  ]
+}

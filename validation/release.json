@@ -1,0 +1,21 @@
+{
+  "source": {
+    "filename": "Albert Odyssey 2 Jashin no Taidou.smc",
+    "size": 2097152,
+    "md5": "17ee32db6de1524535d2f2e995380f70",
+    "sha256": "7c6fe76fe1a414407435c7393f4d9b50a885fa6055cd9d94549725884497698b"
+  },
+  "output": {
+    "filename": "Albert Odyssey 2 - Korean Full v06.sfc",
+    "size": 4194304,
+    "md5": "68aa472e79d95a9665707638406c686a",
+    "sha256": "0b00d3e6dc2f20bb9602ad359a6ba44780cdacbe1a89b846ecf576eb84776ac5"
+  },
+  "patch": {
+    "filename": "Albert Odyssey 2 - Korean Full v06.xdelta",
+    "size": 104933,
+    "md5": "79702743b11d687dda217f5e56df71c7",
+    "sha256": "3603f4843c4d3d90ebf173a8577c6dc1ae561369dd02779075fe5b8d2b9001ef"
+  },
+  "roundtrip_verified": true
+}

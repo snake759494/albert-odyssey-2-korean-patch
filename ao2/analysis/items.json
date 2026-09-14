@@ -1,0 +1,4532 @@
+[
+  {
+    "index": 0,
+    "address": 323102,
+    "name_address": 323103,
+    "end_name": 323107,
+    "tiles": [
+      72
+    ],
+    "japanese": " "
+  },
+  {
+    "index": 1,
+    "address": 316504,
+    "name_address": 316505,
+    "end_name": 316517,
+    "tiles": [
+      2784,
+      2785,
+      333,
+      323,
+      487
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ダガー"
+  },
+  {
+    "index": 2,
+    "address": 316525,
+    "name_address": 316526,
+    "end_name": 316546,
+    "tiles": [
+      2784,
+      2785,
+      256,
+      384,
+      487,
+      264,
+      259,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ショートソード"
+  },
+  {
+    "index": 3,
+    "address": 316554,
+    "name_address": 316555,
+    "end_name": 316573,
+    "tiles": [
+      2784,
+      2785,
+      303,
+      322,
+      325,
+      259,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ロングソード"
+  },
+  {
+    "index": 4,
+    "address": 316581,
+    "name_address": 316582,
+    "end_name": 316602,
+    "tiles": [
+      2784,
+      2785,
+      356,
+      303,
+      487,
+      353,
+      259,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ブロードソード"
+  },
+  {
+    "index": 5,
+    "address": 316610,
+    "name_address": 316611,
+    "end_name": 316633,
+    "tiles": [
+      2784,
+      2785,
+      354,
+      257,
+      260,
+      487,
+      353,
+      259,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>バスタードソード"
+  },
+  {
+    "index": 6,
+    "address": 316641,
+    "name_address": 316642,
+    "end_name": 316662,
+    "tiles": [
+      2784,
+      2785,
+      259,
+      487,
+      353,
+      719,
+      327,
+      487,
+      264
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ソード<16F>ゴート"
+  },
+  {
+    "index": 7,
+    "address": 316670,
+    "name_address": 316671,
+    "end_name": 316689,
+    "tiles": [
+      2784,
+      2785,
+      333,
+      323,
+      487,
+      719,
+      269,
+      229
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ダガー<16F>ノア"
+  },
+  {
+    "index": 8,
+    "address": 316697,
+    "name_address": 316698,
+    "end_name": 316718,
+    "tiles": [
+      2784,
+      2785,
+      257,
+      268,
+      487,
+      236,
+      333,
+      323,
+      487
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>スネークダガー"
+  },
+  {
+    "index": 9,
+    "address": 316726,
+    "name_address": 316727,
+    "end_name": 316749,
+    "tiles": [
+      2784,
+      2785,
+      354,
+      487,
+      266,
+      322,
+      325,
+      259,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>バーニングソード"
+  },
+  {
+    "index": 10,
+    "address": 316757,
+    "name_address": 316758,
+    "end_name": 316776,
+    "tiles": [
+      2784,
+      2785,
+      299,
+      230,
+      264,
+      266,
+      322,
+      325
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ライトニング"
+  },
+  {
+    "index": 11,
+    "address": 316784,
+    "name_address": 316785,
+    "end_name": 316805,
+    "tiles": [
+      2784,
+      2785,
+      292,
+      257,
+      300,
+      301,
+      259,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ミスリルソード"
+  },
+  {
+    "index": 12,
+    "address": 316813,
+    "name_address": 316814,
+    "end_name": 316834,
+    "tiles": [
+      2784,
+      2785,
+      232,
+      236,
+      257,
+      234,
+      300,
+      354,
+      487
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>エクスカリバー"
+  },
+  {
+    "index": 13,
+    "address": 316842,
+    "name_address": 316843,
+    "end_name": 316863,
+    "tiles": [
+      2784,
+      2785,
+      356,
+      299,
+      365,
+      353,
+      259,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ブラッドソード"
+  },
+  {
+    "index": 14,
+    "address": 316871,
+    "name_address": 316872,
+    "end_name": 316892,
+    "tiles": [
+      2784,
+      2785,
+      39,
+      256,
+      301,
+      706,
+      364,
+      322,
+      257
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>Nシルヴァンス"
+  },
+  {
+    "index": 15,
+    "address": 316900,
+    "name_address": 316901,
+    "end_name": 316923,
+    "tiles": [
+      2784,
+      2785,
+      329,
+      653,
+      268,
+      299,
+      301,
+      259,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ジェネラルソード"
+  },
+  {
+    "index": 16,
+    "address": 316931,
+    "name_address": 316932,
+    "end_name": 316954,
+    "tiles": [
+      2784,
+      2785,
+      327,
+      487,
+      301,
+      352,
+      322,
+      259,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ゴールデンソード"
+  },
+  {
+    "index": 17,
+    "address": 316962,
+    "name_address": 316963,
+    "end_name": 316985,
+    "tiles": [
+      2784,
+      2785,
+      256,
+      384,
+      487,
+      264,
+      239,
+      487,
+      357,
+      301
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ショートサーベル"
+  },
+  {
+    "index": 18,
+    "address": 316993,
+    "name_address": 316994,
+    "end_name": 317014,
+    "tiles": [
+      2784,
+      2785,
+      303,
+      322,
+      325,
+      239,
+      487,
+      357,
+      301
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ロングサーベル"
+  },
+  {
+    "index": 19,
+    "address": 317022,
+    "name_address": 317023,
+    "end_name": 317037,
+    "tiles": [
+      2784,
+      2785,
+      356,
+      302,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ブレード"
+  },
+  {
+    "index": 20,
+    "address": 317045,
+    "name_address": 317046,
+    "end_name": 317066,
+    "tiles": [
+      2784,
+      2785,
+      288,
+      678,
+      301,
+      487,
+      256,
+      384,
+      322
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>フ択ルーション"
+  },
+  {
+    "index": 21,
+    "address": 317074,
+    "name_address": 317075,
+    "end_name": 317097,
+    "tiles": [
+      2784,
+      2785,
+      265,
+      230,
+      264,
+      257,
+      264,
+      487,
+      234,
+      487
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ナイトストーカー"
+  },
+  {
+    "index": 22,
+    "address": 317105,
+    "name_address": 317106,
+    "end_name": 317120,
+    "tiles": [
+      2784,
+      2785,
+      235,
+      300,
+      234,
+      331
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>キリカゼ"
+  },
+  {
+    "index": 23,
+    "address": 317128,
+    "name_address": 317129,
+    "end_name": 317149,
+    "tiles": [
+      2784,
+      2785,
+      333,
+      487,
+      236,
+      239,
+      487,
+      357,
+      301
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ダークサーベル"
+  },
+  {
+    "index": 24,
+    "address": 317157,
+    "name_address": 317158,
+    "end_name": 317176,
+    "tiles": [
+      2784,
+      2785,
+      235,
+      301,
+      356,
+      302,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>キルブレード"
+  },
+  {
+    "index": 25,
+    "address": 317184,
+    "name_address": 317185,
+    "end_name": 317207,
+    "tiles": [
+      2784,
+      2785,
+      290,
+      320,
+      230,
+      264,
+      288,
+      364,
+      322,
+      325
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ホワイトファング"
+  },
+  {
+    "index": 26,
+    "address": 317215,
+    "name_address": 317216,
+    "end_name": 317238,
+    "tiles": [
+      2784,
+      2785,
+      293,
+      299,
+      291,
+      239,
+      356,
+      302,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ムラマサブレード"
+  },
+  {
+    "index": 27,
+    "address": 317246,
+    "name_address": 317247,
+    "end_name": 317267,
+    "tiles": [
+      2784,
+      2785,
+      288,
+      231,
+      291,
+      356,
+      302,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>フウマブレード"
+  },
+  {
+    "index": 28,
+    "address": 317275,
+    "name_address": 317276,
+    "end_name": 317296,
+    "tiles": [
+      2784,
+      2785,
+      362,
+      230,
+      301,
+      239,
+      487,
+      357,
+      301
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ペイルサーベル"
+  },
+  {
+    "index": 29,
+    "address": 317304,
+    "name_address": 317305,
+    "end_name": 317323,
+    "tiles": [
+      2784,
+      2785,
+      301,
+      236,
+      257,
+      302,
+      230,
+      293
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ルクスレイム"
+  },
+  {
+    "index": 30,
+    "address": 317331,
+    "name_address": 317332,
+    "end_name": 317342,
+    "tiles": [
+      2784,
+      2785,
+      232,
+      362
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>エペ"
+  },
+  {
+    "index": 31,
+    "address": 317350,
+    "name_address": 317351,
+    "end_name": 317365,
+    "tiles": [
+      2784,
+      2785,
+      302,
+      230,
+      360,
+      229
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>レイピア"
+  },
+  {
+    "index": 32,
+    "address": 317373,
+    "name_address": 317374,
+    "end_name": 317390,
+    "tiles": [
+      2784,
+      2785,
+      232,
+      257,
+      264,
+      365,
+      236
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>エストック"
+  },
+  {
+    "index": 33,
+    "address": 317398,
+    "name_address": 317399,
+    "end_name": 317421,
+    "tiles": [
+      2784,
+      2785,
+      292,
+      257,
+      300,
+      301,
+      302,
+      230,
+      360,
+      229
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ミスリルレイピア"
+  },
+  {
+    "index": 34,
+    "address": 317429,
+    "name_address": 317430,
+    "end_name": 317450,
+    "tiles": [
+      2784,
+      2785,
+      302,
+      230,
+      360,
+      229,
+      719,
+      269,
+      229
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>レイピア<16F>ノア"
+  },
+  {
+    "index": 35,
+    "address": 317458,
+    "name_address": 317459,
+    "end_name": 317479,
+    "tiles": [
+      2784,
+      2785,
+      352,
+      355,
+      301,
+      302,
+      230,
+      360,
+      229
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>デビルレイピア"
+  },
+  {
+    "index": 36,
+    "address": 317487,
+    "name_address": 317488,
+    "end_name": 317510,
+    "tiles": [
+      2784,
+      2785,
+      333,
+      487,
+      236,
+      257,
+      299,
+      365,
+      256,
+      367
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ダークスラッシュ"
+  },
+  {
+    "index": 37,
+    "address": 317518,
+    "name_address": 317519,
+    "end_name": 317539,
+    "tiles": [
+      2784,
+      2785,
+      353,
+      299,
+      327,
+      322,
+      290,
+      487,
+      322
+    ],
+    "japanese": "<ICON:0AE0><ICON:0AE1>ドラゴンホーン"
+  },
+  {
+    "index": 38,
+    "address": 317547,
+    "name_address": 317548,
+    "end_name": 317560,
+    "tiles": [
+      2786,
+      2787,
+      320,
+      322,
+      353
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>ワンド"
+  },
+  {
+    "index": 39,
+    "address": 317568,
+    "name_address": 317569,
+    "end_name": 317581,
+    "tiles": [
+      2786,
+      2787,
+      303,
+      365,
+      353
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>ロッド"
+  },
+  {
+    "index": 40,
+    "address": 317589,
+    "name_address": 317590,
+    "end_name": 317604,
+    "tiles": [
+      2786,
+      2787,
+      257,
+      260,
+      365,
+      288
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>スタッフ"
+  },
+  {
+    "index": 41,
+    "address": 317612,
+    "name_address": 317613,
+    "end_name": 317635,
+    "tiles": [
+      2786,
+      2787,
+      292,
+      257,
+      300,
+      301,
+      257,
+      260,
+      365,
+      288
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>ミスリルスタッフ"
+  },
+  {
+    "index": 42,
+    "address": 317643,
+    "name_address": 317644,
+    "end_name": 317666,
+    "tiles": [
+      2786,
+      2787,
+      236,
+      684,
+      487,
+      322,
+      257,
+      260,
+      365,
+      288
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>クィーンスタッフ"
+  },
+  {
+    "index": 43,
+    "address": 317674,
+    "name_address": 317675,
+    "end_name": 317695,
+    "tiles": [
+      2786,
+      2787,
+      320,
+      322,
+      353,
+      719,
+      265,
+      365,
+      236
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>ワンド<16F>ナック"
+  },
+  {
+    "index": 44,
+    "address": 317703,
+    "name_address": 317704,
+    "end_name": 317726,
+    "tiles": [
+      2786,
+      2787,
+      361,
+      299,
+      330,
+      291,
+      257,
+      260,
+      365,
+      288
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>プラズマスタッフ"
+  },
+  {
+    "index": 45,
+    "address": 317734,
+    "name_address": 317735,
+    "end_name": 317757,
+    "tiles": [
+      2786,
+      2787,
+      257,
+      260,
+      365,
+      288,
+      719,
+      261,
+      229,
+      322
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>スタッフ<16F>チアン"
+  },
+  {
+    "index": 46,
+    "address": 317765,
+    "name_address": 317766,
+    "end_name": 317786,
+    "tiles": [
+      2786,
+      2787,
+      352,
+      257,
+      264,
+      303,
+      230,
+      296,
+      487
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>デストロイヤー"
+  },
+  {
+    "index": 47,
+    "address": 317794,
+    "name_address": 317795,
+    "end_name": 317815,
+    "tiles": [
+      2786,
+      2787,
+      303,
+      365,
+      353,
+      719,
+      288,
+      684,
+      303
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>ロッド<16F>フィロ"
+  },
+  {
+    "index": 48,
+    "address": 317823,
+    "name_address": 317824,
+    "end_name": 317840,
+    "tiles": [
+      2786,
+      2787,
+      270,
+      261,
+      653,
+      365,
+      264
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>ハチェット"
+  },
+  {
+    "index": 49,
+    "address": 317848,
+    "name_address": 317849,
+    "end_name": 317861,
+    "tiles": [
+      2786,
+      2787,
+      294,
+      230,
+      257
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>メイス"
+  },
+  {
+    "index": 50,
+    "address": 317869,
+    "name_address": 317870,
+    "end_name": 317882,
+    "tiles": [
+      2786,
+      2787,
+      295,
+      487,
+      301
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>モール"
+  },
+  {
+    "index": 51,
+    "address": 317890,
+    "name_address": 317891,
+    "end_name": 317909,
+    "tiles": [
+      2786,
+      2787,
+      289,
+      706,
+      684,
+      294,
+      230,
+      257
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>ヘヴィメイス"
+  },
+  {
+    "index": 52,
+    "address": 317917,
+    "name_address": 317918,
+    "end_name": 317938,
+    "tiles": [
+      2786,
+      2787,
+      292,
+      257,
+      300,
+      301,
+      294,
+      230,
+      257
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>ミスリルメイス"
+  },
+  {
+    "index": 53,
+    "address": 317946,
+    "name_address": 317947,
+    "end_name": 317969,
+    "tiles": [
+      2786,
+      2787,
+      229,
+      487,
+      291,
+      236,
+      299,
+      365,
+      256,
+      367
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>アーマクラッシュ"
+  },
+  {
+    "index": 54,
+    "address": 317977,
+    "name_address": 317978,
+    "end_name": 318000,
+    "tiles": [
+      2786,
+      2787,
+      353,
+      302,
+      365,
+      353,
+      270,
+      322,
+      291,
+      487
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>ドレッドハンマー"
+  },
+  {
+    "index": 55,
+    "address": 318008,
+    "name_address": 318009,
+    "end_name": 318023,
+    "tiles": [
+      2786,
+      2787,
+      231,
+      230,
+      365,
+      361
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>ウイップ"
+  },
+  {
+    "index": 56,
+    "address": 318031,
+    "name_address": 318032,
+    "end_name": 318054,
+    "tiles": [
+      2786,
+      2787,
+      236,
+      684,
+      487,
+      322,
+      231,
+      684,
+      365,
+      361
+    ],
+    "japanese": "<ICON:0AE2><ICON:0AE3>クィーンウィップ"
+  },
+  {
+    "index": 57,
+    "address": 318062,
+    "name_address": 318063,
+    "end_name": 318085,
+    "tiles": [
+      2788,
+      2789,
+      257,
+      295,
+      487,
+      301,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>スモールシールド"
+  },
+  {
+    "index": 58,
+    "address": 318093,
+    "name_address": 318094,
+    "end_name": 318114,
+    "tiles": [
+      2788,
+      2789,
+      265,
+      230,
+      264,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ナイトシールド"
+  },
+  {
+    "index": 59,
+    "address": 318122,
+    "name_address": 318123,
+    "end_name": 318143,
+    "tiles": [
+      2788,
+      2789,
+      299,
+      487,
+      329,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ラージシールド"
+  },
+  {
+    "index": 60,
+    "address": 318151,
+    "name_address": 318152,
+    "end_name": 318172,
+    "tiles": [
+      2788,
+      2789,
+      260,
+      320,
+      487,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>タワーシールド"
+  },
+  {
+    "index": 61,
+    "address": 318180,
+    "name_address": 318181,
+    "end_name": 318201,
+    "tiles": [
+      2788,
+      2789,
+      327,
+      487,
+      264,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ゴートシールド"
+  },
+  {
+    "index": 62,
+    "address": 318209,
+    "name_address": 318210,
+    "end_name": 318232,
+    "tiles": [
+      2788,
+      2789,
+      288,
+      364,
+      230,
+      229,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ファイアシールド"
+  },
+  {
+    "index": 63,
+    "address": 318240,
+    "name_address": 318241,
+    "end_name": 318261,
+    "tiles": [
+      2788,
+      2789,
+      229,
+      230,
+      257,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>アイスシールド"
+  },
+  {
+    "index": 64,
+    "address": 318269,
+    "name_address": 318270,
+    "end_name": 318292,
+    "tiles": [
+      2788,
+      2789,
+      239,
+      322,
+      333,
+      487,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>サンダーシールド"
+  },
+  {
+    "index": 65,
+    "address": 318300,
+    "name_address": 318301,
+    "end_name": 318321,
+    "tiles": [
+      2788,
+      2789,
+      234,
+      233,
+      257,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>カオスシールド"
+  },
+  {
+    "index": 66,
+    "address": 318329,
+    "name_address": 318330,
+    "end_name": 318350,
+    "tiles": [
+      2788,
+      2789,
+      362,
+      230,
+      301,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ペイルシールド"
+  },
+  {
+    "index": 67,
+    "address": 318358,
+    "name_address": 318359,
+    "end_name": 318381,
+    "tiles": [
+      2788,
+      2789,
+      256,
+      487,
+      301,
+      353,
+      719,
+      288,
+      684,
+      303
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>シールド<16F>フィロ"
+  },
+  {
+    "index": 68,
+    "address": 318389,
+    "name_address": 318390,
+    "end_name": 318406,
+    "tiles": [
+      2788,
+      2789,
+      354,
+      365,
+      236,
+      299,
+      487
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>バックラー"
+  },
+  {
+    "index": 69,
+    "address": 318414,
+    "name_address": 318415,
+    "end_name": 318427,
+    "tiles": [
+      2788,
+      2789,
+      258,
+      322,
+      257
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>センス"
+  },
+  {
+    "index": 70,
+    "address": 318435,
+    "name_address": 318436,
+    "end_name": 318458,
+    "tiles": [
+      2788,
+      2789,
+      299,
+      231,
+      322,
+      353,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ラウンドシールド"
+  },
+  {
+    "index": 71,
+    "address": 318466,
+    "name_address": 318467,
+    "end_name": 318489,
+    "tiles": [
+      2788,
+      2789,
+      290,
+      487,
+      322,
+      353,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ホーンドシールド"
+  },
+  {
+    "index": 72,
+    "address": 318497,
+    "name_address": 318498,
+    "end_name": 318518,
+    "tiles": [
+      2788,
+      2789,
+      359,
+      230,
+      301,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>パイルシールド"
+  },
+  {
+    "index": 73,
+    "address": 318526,
+    "name_address": 318527,
+    "end_name": 318549,
+    "tiles": [
+      2788,
+      2789,
+      288,
+      684,
+      229,
+      487,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>フィアーシールド"
+  },
+  {
+    "index": 74,
+    "address": 318557,
+    "name_address": 318558,
+    "end_name": 318580,
+    "tiles": [
+      2788,
+      2789,
+      292,
+      257,
+      300,
+      301,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ミスリルシールド"
+  },
+  {
+    "index": 75,
+    "address": 318588,
+    "name_address": 318589,
+    "end_name": 318611,
+    "tiles": [
+      2788,
+      2789,
+      353,
+      299,
+      327,
+      322,
+      256,
+      487,
+      301,
+      353
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ドラゴンシールド"
+  },
+  {
+    "index": 76,
+    "address": 318619,
+    "name_address": 318620,
+    "end_name": 318640,
+    "tiles": [
+      2788,
+      2789,
+      291,
+      329,
+      365,
+      236,
+      233,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>マジックオーブ"
+  },
+  {
+    "index": 77,
+    "address": 318648,
+    "name_address": 318649,
+    "end_name": 318667,
+    "tiles": [
+      2788,
+      2789,
+      261,
+      229,
+      322,
+      233,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>チアンオーブ"
+  },
+  {
+    "index": 78,
+    "address": 318675,
+    "name_address": 318676,
+    "end_name": 318692,
+    "tiles": [
+      2788,
+      2789,
+      269,
+      229,
+      233,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ノアオーブ"
+  },
+  {
+    "index": 79,
+    "address": 318700,
+    "name_address": 318701,
+    "end_name": 318719,
+    "tiles": [
+      2788,
+      2789,
+      265,
+      365,
+      236,
+      233,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ナックオーブ"
+  },
+  {
+    "index": 80,
+    "address": 318727,
+    "name_address": 318728,
+    "end_name": 318744,
+    "tiles": [
+      2788,
+      2789,
+      300,
+      322,
+      233,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>リンオーブ"
+  },
+  {
+    "index": 81,
+    "address": 318752,
+    "name_address": 318753,
+    "end_name": 318775,
+    "tiles": [
+      2788,
+      2789,
+      301,
+      487,
+      322,
+      354,
+      365,
+      236,
+      299,
+      487
+    ],
+    "japanese": "<ICON:0AE4><ICON:0AE5>ルーンバックラー"
+  },
+  {
+    "index": 82,
+    "address": 318783,
+    "name_address": 318784,
+    "end_name": 318806,
+    "tiles": [
+      2572,
+      2573,
+      229,
+      230,
+      229,
+      322,
+      356,
+      302,
+      257,
+      264
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>アイアンブレスト"
+  },
+  {
+    "index": 83,
+    "address": 318814,
+    "name_address": 318815,
+    "end_name": 318837,
+    "tiles": [
+      2572,
+      2573,
+      356,
+      302,
+      257,
+      264,
+      361,
+      302,
+      487,
+      264
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ブレストプレート"
+  },
+  {
+    "index": 84,
+    "address": 318845,
+    "name_address": 318846,
+    "end_name": 318866,
+    "tiles": [
+      2572,
+      2573,
+      361,
+      302,
+      487,
+      264,
+      294,
+      230,
+      301
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>プレートメイル"
+  },
+  {
+    "index": 85,
+    "address": 318874,
+    "name_address": 318875,
+    "end_name": 318897,
+    "tiles": [
+      2572,
+      2573,
+      292,
+      257,
+      300,
+      301,
+      361,
+      302,
+      487,
+      264
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ミスリルプレート"
+  },
+  {
+    "index": 86,
+    "address": 318905,
+    "name_address": 318906,
+    "end_name": 318924,
+    "tiles": [
+      2572,
+      2573,
+      327,
+      487,
+      264,
+      294,
+      230,
+      301
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ゴートメイル"
+  },
+  {
+    "index": 87,
+    "address": 318932,
+    "name_address": 318933,
+    "end_name": 318955,
+    "tiles": [
+      2572,
+      2573,
+      356,
+      302,
+      257,
+      264,
+      719,
+      265,
+      365,
+      236
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ブレスト<16F>ナック"
+  },
+  {
+    "index": 88,
+    "address": 318963,
+    "name_address": 318964,
+    "end_name": 318986,
+    "tiles": [
+      2572,
+      2573,
+      356,
+      302,
+      257,
+      264,
+      719,
+      261,
+      229,
+      322
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ブレスト<16F>チアン"
+  },
+  {
+    "index": 89,
+    "address": 318994,
+    "name_address": 318995,
+    "end_name": 319015,
+    "tiles": [
+      2572,
+      2573,
+      234,
+      233,
+      257,
+      229,
+      487,
+      291,
+      487
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>カオスアーマー"
+  },
+  {
+    "index": 90,
+    "address": 319023,
+    "name_address": 319024,
+    "end_name": 319044,
+    "tiles": [
+      2572,
+      2573,
+      362,
+      230,
+      301,
+      229,
+      487,
+      291,
+      487
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ペイルアーマー"
+  },
+  {
+    "index": 91,
+    "address": 319052,
+    "name_address": 319053,
+    "end_name": 319075,
+    "tiles": [
+      2572,
+      2573,
+      329,
+      653,
+      268,
+      299,
+      301,
+      257,
+      487,
+      262
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ジェネラルスーツ"
+  },
+  {
+    "index": 92,
+    "address": 319083,
+    "name_address": 319084,
+    "end_name": 319104,
+    "tiles": [
+      2572,
+      2573,
+      301,
+      236,
+      257,
+      299,
+      352,
+      684,
+      229
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ルクスラディア"
+  },
+  {
+    "index": 93,
+    "address": 319112,
+    "name_address": 319113,
+    "end_name": 319135,
+    "tiles": [
+      2572,
+      2573,
+      257,
+      260,
+      352,
+      365,
+      264,
+      302,
+      328,
+      487
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>スタデットレザー"
+  },
+  {
+    "index": 94,
+    "address": 319143,
+    "name_address": 319144,
+    "end_name": 319166,
+    "tiles": [
+      2572,
+      2573,
+      257,
+      237,
+      487,
+      301,
+      229,
+      487,
+      291,
+      487
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>スケールアーマー"
+  },
+  {
+    "index": 95,
+    "address": 319174,
+    "name_address": 319175,
+    "end_name": 319197,
+    "tiles": [
+      2572,
+      2573,
+      299,
+      294,
+      299,
+      487,
+      229,
+      487,
+      291,
+      487
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ラメラーアーマー"
+  },
+  {
+    "index": 96,
+    "address": 319205,
+    "name_address": 319206,
+    "end_name": 319226,
+    "tiles": [
+      2572,
+      2573,
+      261,
+      653,
+      487,
+      322,
+      294,
+      230,
+      301
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>チェーンメイル"
+  },
+  {
+    "index": 97,
+    "address": 319234,
+    "name_address": 319235,
+    "end_name": 319255,
+    "tiles": [
+      2572,
+      2573,
+      290,
+      487,
+      300,
+      487,
+      294,
+      230,
+      301
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ホーリーメイル"
+  },
+  {
+    "index": 98,
+    "address": 319263,
+    "name_address": 319264,
+    "end_name": 319286,
+    "tiles": [
+      2572,
+      2573,
+      288,
+      231,
+      291,
+      552,
+      261,
+      653,
+      487,
+      322
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>フウマ…チェーン"
+  },
+  {
+    "index": 99,
+    "address": 319294,
+    "name_address": 319295,
+    "end_name": 319315,
+    "tiles": [
+      2572,
+      2573,
+      352,
+      355,
+      301,
+      299,
+      294,
+      299,
+      487
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>デビルラメラー"
+  },
+  {
+    "index": 100,
+    "address": 319323,
+    "name_address": 319324,
+    "end_name": 319346,
+    "tiles": [
+      2572,
+      2573,
+      299,
+      230,
+      329,
+      322,
+      325,
+      294,
+      230,
+      301
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ライジングメイル"
+  },
+  {
+    "index": 101,
+    "address": 319354,
+    "name_address": 319355,
+    "end_name": 319377,
+    "tiles": [
+      2572,
+      2573,
+      353,
+      299,
+      327,
+      322,
+      257,
+      237,
+      230,
+      301
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ドラゴンスケイル"
+  },
+  {
+    "index": 102,
+    "address": 319385,
+    "name_address": 319386,
+    "end_name": 319400,
+    "tiles": [
+      2572,
+      2573,
+      236,
+      303,
+      487,
+      257
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>クロース"
+  },
+  {
+    "index": 103,
+    "address": 319408,
+    "name_address": 319409,
+    "end_name": 319431,
+    "tiles": [
+      2572,
+      2573,
+      302,
+      328,
+      487,
+      329,
+      366,
+      237,
+      365,
+      264
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>レザージャケット"
+  },
+  {
+    "index": 104,
+    "address": 319439,
+    "name_address": 319440,
+    "end_name": 319462,
+    "tiles": [
+      2572,
+      2573,
+      270,
+      230,
+      353,
+      329,
+      366,
+      237,
+      365,
+      264
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ハイドジャケット"
+  },
+  {
+    "index": 105,
+    "address": 319470,
+    "name_address": 319471,
+    "end_name": 319491,
+    "tiles": [
+      2572,
+      2573,
+      257,
+      359,
+      230,
+      236,
+      302,
+      328,
+      487
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>スパイクレザー"
+  },
+  {
+    "index": 106,
+    "address": 319499,
+    "name_address": 319500,
+    "end_name": 319520,
+    "tiles": [
+      2572,
+      2573,
+      229,
+      322,
+      261,
+      288,
+      302,
+      230,
+      293
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>アンチフレイム"
+  },
+  {
+    "index": 107,
+    "address": 319528,
+    "name_address": 319529,
+    "end_name": 319551,
+    "tiles": [
+      2572,
+      2573,
+      230,
+      323,
+      552,
+      329,
+      366,
+      237,
+      365,
+      264
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>イガ…ジャケット"
+  },
+  {
+    "index": 108,
+    "address": 319559,
+    "name_address": 319560,
+    "end_name": 319582,
+    "tiles": [
+      2572,
+      2573,
+      352,
+      300,
+      256,
+      366,
+      257,
+      353,
+      302,
+      257
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>デリシャスドレス"
+  },
+  {
+    "index": 109,
+    "address": 319590,
+    "name_address": 319591,
+    "end_name": 319611,
+    "tiles": [
+      2572,
+      2573,
+      356,
+      299,
+      365,
+      236,
+      302,
+      328,
+      487
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ブラックレザー"
+  },
+  {
+    "index": 110,
+    "address": 319619,
+    "name_address": 319620,
+    "end_name": 319632,
+    "tiles": [
+      2572,
+      2573,
+      303,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ローブ"
+  },
+  {
+    "index": 111,
+    "address": 319640,
+    "name_address": 319641,
+    "end_name": 319661,
+    "tiles": [
+      2572,
+      2573,
+      291,
+      230,
+      322,
+      353,
+      303,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>マインドローブ"
+  },
+  {
+    "index": 112,
+    "address": 319669,
+    "name_address": 319670,
+    "end_name": 319692,
+    "tiles": [
+      2572,
+      2573,
+      352,
+      487,
+      295,
+      322,
+      236,
+      303,
+      487,
+      257
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>デーモンクロース"
+  },
+  {
+    "index": 113,
+    "address": 319700,
+    "name_address": 319701,
+    "end_name": 319721,
+    "tiles": [
+      2572,
+      2573,
+      302,
+      329,
+      257,
+      264,
+      303,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>レジストローブ"
+  },
+  {
+    "index": 114,
+    "address": 319729,
+    "name_address": 319730,
+    "end_name": 319750,
+    "tiles": [
+      2572,
+      2573,
+      302,
+      329,
+      257,
+      264,
+      303,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>レジストローブ"
+  },
+  {
+    "index": 115,
+    "address": 319758,
+    "name_address": 319759,
+    "end_name": 319779,
+    "tiles": [
+      2572,
+      2573,
+      356,
+      299,
+      365,
+      236,
+      291,
+      322,
+      264
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ブラックマント"
+  },
+  {
+    "index": 116,
+    "address": 319787,
+    "name_address": 319788,
+    "end_name": 319808,
+    "tiles": [
+      2572,
+      2573,
+      290,
+      320,
+      230,
+      264,
+      303,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>ホワイトローブ"
+  },
+  {
+    "index": 117,
+    "address": 319816,
+    "name_address": 319817,
+    "end_name": 319837,
+    "tiles": [
+      2572,
+      2573,
+      291,
+      322,
+      264,
+      719,
+      288,
+      684,
+      303
+    ],
+    "japanese": "<ICON:0A0C><ICON:0A0D>マント<16F>フィロ"
+  },
+  {
+    "index": 118,
+    "address": 319845,
+    "name_address": 319846,
+    "end_name": 319864,
+    "tiles": [
+      2765,
+      2766,
+      323,
+      322,
+      264,
+      302,
+      365,
+      264
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>ガントレット"
+  },
+  {
+    "index": 119,
+    "address": 319872,
+    "name_address": 319873,
+    "end_name": 319891,
+    "tiles": [
+      2765,
+      2766,
+      354,
+      322,
+      356,
+      302,
+      230,
+      257
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>バンブレイス"
+  },
+  {
+    "index": 120,
+    "address": 319899,
+    "name_address": 319900,
+    "end_name": 319914,
+    "tiles": [
+      2765,
+      2766,
+      257,
+      300,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>スリーブ"
+  },
+  {
+    "index": 121,
+    "address": 319922,
+    "name_address": 319923,
+    "end_name": 319945,
+    "tiles": [
+      2765,
+      2766,
+      261,
+      653,
+      487,
+      322,
+      257,
+      300,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>チェーンスリーブ"
+  },
+  {
+    "index": 122,
+    "address": 319953,
+    "name_address": 319954,
+    "end_name": 319974,
+    "tiles": [
+      2765,
+      2766,
+      327,
+      487,
+      264,
+      257,
+      300,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>ゴートスリーブ"
+  },
+  {
+    "index": 123,
+    "address": 319982,
+    "name_address": 319983,
+    "end_name": 320005,
+    "tiles": [
+      2765,
+      2766,
+      292,
+      257,
+      300,
+      301,
+      257,
+      300,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>ミスリルスリーブ"
+  },
+  {
+    "index": 124,
+    "address": 320013,
+    "name_address": 320014,
+    "end_name": 320036,
+    "tiles": [
+      2765,
+      2766,
+      257,
+      300,
+      487,
+      356,
+      719,
+      265,
+      365,
+      236
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>スリーブ<16F>ナック"
+  },
+  {
+    "index": 125,
+    "address": 320044,
+    "name_address": 320045,
+    "end_name": 320065,
+    "tiles": [
+      2765,
+      2766,
+      234,
+      233,
+      257,
+      257,
+      300,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>カオススリーブ"
+  },
+  {
+    "index": 126,
+    "address": 320073,
+    "name_address": 320074,
+    "end_name": 320094,
+    "tiles": [
+      2765,
+      2766,
+      362,
+      230,
+      301,
+      257,
+      300,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>ペイルスリーブ"
+  },
+  {
+    "index": 127,
+    "address": 320102,
+    "name_address": 320103,
+    "end_name": 320123,
+    "tiles": [
+      2765,
+      2766,
+      302,
+      328,
+      487,
+      325,
+      303,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>レザーグローブ"
+  },
+  {
+    "index": 128,
+    "address": 320131,
+    "name_address": 320132,
+    "end_name": 320154,
+    "tiles": [
+      2765,
+      2766,
+      257,
+      359,
+      230,
+      236,
+      325,
+      303,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>スパイクグローブ"
+  },
+  {
+    "index": 129,
+    "address": 320162,
+    "name_address": 320163,
+    "end_name": 320175,
+    "tiles": [
+      2765,
+      2766,
+      236,
+      303,
+      487
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>クロー"
+  },
+  {
+    "index": 130,
+    "address": 320183,
+    "name_address": 320184,
+    "end_name": 320206,
+    "tiles": [
+      2765,
+      2766,
+      361,
+      303,
+      263,
+      236,
+      264,
+      270,
+      322,
+      353
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>プロテクトハンド"
+  },
+  {
+    "index": 131,
+    "address": 320214,
+    "name_address": 320215,
+    "end_name": 320237,
+    "tiles": [
+      2765,
+      2766,
+      288,
+      653,
+      328,
+      487,
+      325,
+      303,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>フェザーグローブ"
+  },
+  {
+    "index": 132,
+    "address": 320245,
+    "name_address": 320246,
+    "end_name": 320268,
+    "tiles": [
+      2765,
+      2766,
+      288,
+      231,
+      291,
+      552,
+      325,
+      303,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>フウマ…グローブ"
+  },
+  {
+    "index": 133,
+    "address": 320276,
+    "name_address": 320277,
+    "end_name": 320299,
+    "tiles": [
+      2765,
+      2766,
+      325,
+      303,
+      487,
+      356,
+      719,
+      288,
+      684,
+      303
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>グローブ<16F>フィロ"
+  },
+  {
+    "index": 134,
+    "address": 320307,
+    "name_address": 320308,
+    "end_name": 320330,
+    "tiles": [
+      2765,
+      2766,
+      256,
+      301,
+      236,
+      129,
+      107,
+      200,
+      96,
+      163
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>シルクのてぶくろ"
+  },
+  {
+    "index": 135,
+    "address": 320338,
+    "name_address": 320339,
+    "end_name": 320359,
+    "tiles": [
+      2765,
+      2766,
+      361,
+      303,
+      292,
+      257,
+      300,
+      322,
+      325
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>プロミスリング"
+  },
+  {
+    "index": 136,
+    "address": 320367,
+    "name_address": 320368,
+    "end_name": 320386,
+    "tiles": [
+      2765,
+      2766,
+      359,
+      320,
+      487,
+      300,
+      257,
+      264
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>パワーリスト"
+  },
+  {
+    "index": 137,
+    "address": 320394,
+    "name_address": 320395,
+    "end_name": 320417,
+    "tiles": [
+      2765,
+      2766,
+      361,
+      303,
+      263,
+      236,
+      264,
+      300,
+      322,
+      325
+    ],
+    "japanese": "<ICON:0ACD><ICON:0ACE>プロテクトリング"
+  },
+  {
+    "index": 138,
+    "address": 320425,
+    "name_address": 320426,
+    "end_name": 320442,
+    "tiles": [
+      2568,
+      2569,
+      266,
+      487,
+      359,
+      365,
+      264
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>ニーパット"
+  },
+  {
+    "index": 139,
+    "address": 320450,
+    "name_address": 320451,
+    "end_name": 320467,
+    "tiles": [
+      2568,
+      2569,
+      256,
+      322,
+      323,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>シンガード"
+  },
+  {
+    "index": 140,
+    "address": 320475,
+    "name_address": 320476,
+    "end_name": 320490,
+    "tiles": [
+      2568,
+      2569,
+      325,
+      300,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>グリーブ"
+  },
+  {
+    "index": 141,
+    "address": 320498,
+    "name_address": 320499,
+    "end_name": 320519,
+    "tiles": [
+      2568,
+      2569,
+      354,
+      264,
+      301,
+      325,
+      300,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>バトルグリーブ"
+  },
+  {
+    "index": 142,
+    "address": 320527,
+    "name_address": 320528,
+    "end_name": 320548,
+    "tiles": [
+      2568,
+      2569,
+      327,
+      487,
+      264,
+      325,
+      300,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>ゴートグリーブ"
+  },
+  {
+    "index": 143,
+    "address": 320556,
+    "name_address": 320557,
+    "end_name": 320579,
+    "tiles": [
+      2568,
+      2569,
+      292,
+      257,
+      300,
+      301,
+      325,
+      300,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>ミスリルグリーブ"
+  },
+  {
+    "index": 144,
+    "address": 320587,
+    "name_address": 320588,
+    "end_name": 320610,
+    "tiles": [
+      2568,
+      2569,
+      234,
+      233,
+      257,
+      256,
+      322,
+      323,
+      487,
+      353
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>カオスシンガード"
+  },
+  {
+    "index": 145,
+    "address": 320618,
+    "name_address": 320619,
+    "end_name": 320639,
+    "tiles": [
+      2568,
+      2569,
+      362,
+      230,
+      301,
+      325,
+      300,
+      487,
+      356
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>ペイルグリーブ"
+  },
+  {
+    "index": 146,
+    "address": 320647,
+    "name_address": 320648,
+    "end_name": 320670,
+    "tiles": [
+      2568,
+      2569,
+      288,
+      231,
+      291,
+      552,
+      256,
+      367,
+      487,
+      330
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>フウマ…シューズ"
+  },
+  {
+    "index": 147,
+    "address": 320678,
+    "name_address": 320679,
+    "end_name": 320697,
+    "tiles": [
+      2568,
+      2569,
+      327,
+      487,
+      264,
+      356,
+      487,
+      262
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>ゴートブーツ"
+  },
+  {
+    "index": 148,
+    "address": 320705,
+    "name_address": 320706,
+    "end_name": 320726,
+    "tiles": [
+      2568,
+      2569,
+      257,
+      359,
+      230,
+      236,
+      356,
+      487,
+      262
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>スパイクブーツ"
+  },
+  {
+    "index": 149,
+    "address": 320734,
+    "name_address": 320735,
+    "end_name": 320753,
+    "tiles": [
+      2568,
+      2569,
+      356,
+      487,
+      262,
+      719,
+      269,
+      229
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>ブーツ<16F>ノア"
+  },
+  {
+    "index": 150,
+    "address": 320761,
+    "name_address": 320762,
+    "end_name": 320784,
+    "tiles": [
+      2568,
+      2569,
+      229,
+      329,
+      300,
+      263,
+      684,
+      356,
+      487,
+      262
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>アジリティブーツ"
+  },
+  {
+    "index": 151,
+    "address": 320792,
+    "name_address": 320793,
+    "end_name": 320813,
+    "tiles": [
+      2568,
+      2569,
+      356,
+      487,
+      262,
+      719,
+      288,
+      684,
+      303
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>ブーツ<16F>フィロ"
+  },
+  {
+    "index": 152,
+    "address": 320821,
+    "name_address": 320822,
+    "end_name": 320842,
+    "tiles": [
+      2568,
+      2569,
+      302,
+      328,
+      487,
+      256,
+      367,
+      487,
+      330
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>レザーシューズ"
+  },
+  {
+    "index": 153,
+    "address": 320850,
+    "name_address": 320851,
+    "end_name": 320871,
+    "tiles": [
+      2568,
+      2569,
+      302,
+      365,
+      353,
+      256,
+      367,
+      487,
+      330
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>レッドシューズ"
+  },
+  {
+    "index": 154,
+    "address": 320879,
+    "name_address": 320880,
+    "end_name": 320896,
+    "tiles": [
+      2568,
+      2569,
+      270,
+      230,
+      271,
+      487,
+      301
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>ハイヒール"
+  },
+  {
+    "index": 155,
+    "address": 320904,
+    "name_address": 320905,
+    "end_name": 320927,
+    "tiles": [
+      2568,
+      2569,
+      333,
+      487,
+      236,
+      270,
+      230,
+      271,
+      487,
+      301
+    ],
+    "japanese": "<ICON:0A08><ICON:0A09>ダークハイヒール"
+  },
+  {
+    "index": 156,
+    "address": 320935,
+    "name_address": 320936,
+    "end_name": 320956,
+    "tiles": [
+      2570,
+      2571,
+      233,
+      487,
+      361,
+      322,
+      289,
+      301,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>オープンヘルム"
+  },
+  {
+    "index": 157,
+    "address": 320964,
+    "name_address": 320965,
+    "end_name": 320985,
+    "tiles": [
+      2570,
+      2571,
+      290,
+      487,
+      322,
+      353,
+      289,
+      301,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ホーンドヘルム"
+  },
+  {
+    "index": 158,
+    "address": 320993,
+    "name_address": 320994,
+    "end_name": 321014,
+    "tiles": [
+      2570,
+      2571,
+      231,
+      684,
+      322,
+      325,
+      289,
+      301,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ウィングヘルム"
+  },
+  {
+    "index": 159,
+    "address": 321022,
+    "name_address": 321023,
+    "end_name": 321039,
+    "tiles": [
+      2570,
+      2571,
+      239,
+      487,
+      300,
+      365,
+      264
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>サーリット"
+  },
+  {
+    "index": 160,
+    "address": 321047,
+    "name_address": 321048,
+    "end_name": 321064,
+    "tiles": [
+      2570,
+      2571,
+      288,
+      301,
+      289,
+      301,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>フルヘルム"
+  },
+  {
+    "index": 161,
+    "address": 321072,
+    "name_address": 321073,
+    "end_name": 321091,
+    "tiles": [
+      2570,
+      2571,
+      327,
+      487,
+      264,
+      289,
+      301,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ゴートヘルム"
+  },
+  {
+    "index": 162,
+    "address": 321099,
+    "name_address": 321100,
+    "end_name": 321120,
+    "tiles": [
+      2570,
+      2571,
+      292,
+      257,
+      300,
+      301,
+      289,
+      301,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ミスリルヘルム"
+  },
+  {
+    "index": 163,
+    "address": 321128,
+    "name_address": 321129,
+    "end_name": 321147,
+    "tiles": [
+      2570,
+      2571,
+      353,
+      292,
+      269,
+      289,
+      301,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ドミノヘルム"
+  },
+  {
+    "index": 164,
+    "address": 321155,
+    "name_address": 321156,
+    "end_name": 321174,
+    "tiles": [
+      2570,
+      2571,
+      234,
+      233,
+      257,
+      289,
+      301,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>カオスヘルム"
+  },
+  {
+    "index": 165,
+    "address": 321182,
+    "name_address": 321183,
+    "end_name": 321201,
+    "tiles": [
+      2570,
+      2571,
+      230,
+      323,
+      552,
+      330,
+      235,
+      322
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>イガ…ズキン"
+  },
+  {
+    "index": 166,
+    "address": 321209,
+    "name_address": 321210,
+    "end_name": 321232,
+    "tiles": [
+      2570,
+      2571,
+      359,
+      320,
+      487,
+      239,
+      487,
+      300,
+      365,
+      264
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>パワーサーリット"
+  },
+  {
+    "index": 167,
+    "address": 321240,
+    "name_address": 321241,
+    "end_name": 321259,
+    "tiles": [
+      2570,
+      2571,
+      362,
+      230,
+      301,
+      289,
+      301,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ペイルヘルム"
+  },
+  {
+    "index": 168,
+    "address": 321267,
+    "name_address": 321268,
+    "end_name": 321290,
+    "tiles": [
+      2570,
+      2571,
+      329,
+      653,
+      268,
+      299,
+      301,
+      289,
+      301,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ジェネラルヘルム"
+  },
+  {
+    "index": 169,
+    "address": 321298,
+    "name_address": 321299,
+    "end_name": 321319,
+    "tiles": [
+      2570,
+      2571,
+      302,
+      328,
+      487,
+      235,
+      366,
+      365,
+      361
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>レザーキャップ"
+  },
+  {
+    "index": 170,
+    "address": 321327,
+    "name_address": 321328,
+    "end_name": 321350,
+    "tiles": [
+      2570,
+      2571,
+      257,
+      260,
+      352,
+      365,
+      264,
+      289,
+      301,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>スタデットヘルム"
+  },
+  {
+    "index": 171,
+    "address": 321358,
+    "name_address": 321359,
+    "end_name": 321375,
+    "tiles": [
+      2570,
+      2571,
+      333,
+      230,
+      229,
+      352,
+      293
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ダイアデム"
+  },
+  {
+    "index": 172,
+    "address": 321383,
+    "name_address": 321384,
+    "end_name": 321406,
+    "tiles": [
+      2570,
+      2571,
+      291,
+      230,
+      322,
+      353,
+      239,
+      487,
+      236,
+      301
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>マインドサークル"
+  },
+  {
+    "index": 173,
+    "address": 321414,
+    "name_address": 321415,
+    "end_name": 321435,
+    "tiles": [
+      2570,
+      2571,
+      292,
+      257,
+      300,
+      301,
+      354,
+      322,
+      353
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ミスリルバンド"
+  },
+  {
+    "index": 174,
+    "address": 321443,
+    "name_address": 321444,
+    "end_name": 321464,
+    "tiles": [
+      2570,
+      2571,
+      257,
+      360,
+      487,
+      353,
+      354,
+      322,
+      353
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>スピードバンド"
+  },
+  {
+    "index": 175,
+    "address": 321472,
+    "name_address": 321473,
+    "end_name": 321493,
+    "tiles": [
+      2570,
+      2571,
+      288,
+      231,
+      291,
+      552,
+      291,
+      257,
+      236
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>フウマ…マスク"
+  },
+  {
+    "index": 176,
+    "address": 321501,
+    "name_address": 321502,
+    "end_name": 321522,
+    "tiles": [
+      2570,
+      2571,
+      270,
+      365,
+      264,
+      719,
+      288,
+      684,
+      303
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ハット<16F>フィロ"
+  },
+  {
+    "index": 177,
+    "address": 321530,
+    "name_address": 321531,
+    "end_name": 321551,
+    "tiles": [
+      2570,
+      2571,
+      265,
+      487,
+      257,
+      235,
+      366,
+      365,
+      361
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ナースキャップ"
+  },
+  {
+    "index": 178,
+    "address": 321559,
+    "name_address": 321560,
+    "end_name": 321578,
+    "tiles": [
+      2570,
+      2571,
+      239,
+      487,
+      236,
+      302,
+      365,
+      264
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>サークレット"
+  },
+  {
+    "index": 179,
+    "address": 321586,
+    "name_address": 321587,
+    "end_name": 321609,
+    "tiles": [
+      2570,
+      2571,
+      292,
+      257,
+      300,
+      301,
+      239,
+      487,
+      236,
+      301
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ミスリルサークル"
+  },
+  {
+    "index": 180,
+    "address": 321617,
+    "name_address": 321618,
+    "end_name": 321638,
+    "tiles": [
+      2570,
+      2571,
+      352,
+      365,
+      353,
+      239,
+      487,
+      236,
+      301
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>デッドサークル"
+  },
+  {
+    "index": 181,
+    "address": 321646,
+    "name_address": 321647,
+    "end_name": 321667,
+    "tiles": [
+      2570,
+      2571,
+      271,
+      487,
+      301,
+      239,
+      487,
+      236,
+      301
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>ヒールサークル"
+  },
+  {
+    "index": 182,
+    "address": 321675,
+    "name_address": 321676,
+    "end_name": 321690,
+    "tiles": [
+      2570,
+      2571,
+      236,
+      299,
+      231,
+      322
+    ],
+    "japanese": "<ICON:0A0A><ICON:0A0B>クラウン"
+  },
+  {
+    "index": 183,
+    "address": 321698,
+    "name_address": 321698,
+    "end_name": 321720,
+    "tiles": [
+      2790,
+      2791,
+      271,
+      487,
+      301,
+      363,
+      487,
+      256,
+      384,
+      322
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ヒールポーション"
+  },
+  {
+    "index": 184,
+    "address": 321720,
+    "name_address": 321720,
+    "end_name": 321740,
+    "tiles": [
+      2790,
+      2791,
+      270,
+      230,
+      363,
+      487,
+      256,
+      384,
+      322
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ハイポーション"
+  },
+  {
+    "index": 185,
+    "address": 321740,
+    "name_address": 321740,
+    "end_name": 321760,
+    "tiles": [
+      2790,
+      2791,
+      257,
+      487,
+      359,
+      487,
+      271,
+      487,
+      301
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>スーパーヒール"
+  },
+  {
+    "index": 186,
+    "address": 321760,
+    "name_address": 321760,
+    "end_name": 321780,
+    "tiles": [
+      2790,
+      2791,
+      270,
+      230,
+      359,
+      487,
+      271,
+      487,
+      301
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ハイパーヒール"
+  },
+  {
+    "index": 187,
+    "address": 321780,
+    "name_address": 321780,
+    "end_name": 321800,
+    "tiles": [
+      2790,
+      2791,
+      327,
+      487,
+      301,
+      353,
+      271,
+      487,
+      301
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ゴールドヒール"
+  },
+  {
+    "index": 188,
+    "address": 321800,
+    "name_address": 321800,
+    "end_name": 321820,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 189,
+    "address": 321820,
+    "name_address": 321820,
+    "end_name": 321840,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 190,
+    "address": 321840,
+    "name_address": 321840,
+    "end_name": 321860,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 191,
+    "address": 321860,
+    "name_address": 321860,
+    "end_name": 321880,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 192,
+    "address": 321880,
+    "name_address": 321880,
+    "end_name": 321900,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 193,
+    "address": 321900,
+    "name_address": 321900,
+    "end_name": 321920,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 194,
+    "address": 321920,
+    "name_address": 321920,
+    "end_name": 321940,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 195,
+    "address": 321940,
+    "name_address": 321940,
+    "end_name": 321960,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 196,
+    "address": 321960,
+    "name_address": 321960,
+    "end_name": 321980,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 197,
+    "address": 321980,
+    "name_address": 321980,
+    "end_name": 322000,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 198,
+    "address": 322000,
+    "name_address": 322000,
+    "end_name": 322020,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 199,
+    "address": 322020,
+    "name_address": 322020,
+    "end_name": 322036,
+    "tiles": [
+      2790,
+      2791,
+      264,
+      300,
+      325,
+      299,
+      293
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>トリグラム"
+  },
+  {
+    "index": 200,
+    "address": 322036,
+    "name_address": 322036,
+    "end_name": 322054,
+    "tiles": [
+      2790,
+      2791,
+      263,
+      264,
+      299,
+      325,
+      299,
+      293
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>テトラグラム"
+  },
+  {
+    "index": 201,
+    "address": 322054,
+    "name_address": 322054,
+    "end_name": 322072,
+    "tiles": [
+      2790,
+      2791,
+      362,
+      322,
+      260,
+      325,
+      299,
+      293
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ペンタグラム"
+  },
+  {
+    "index": 202,
+    "address": 322072,
+    "name_address": 322072,
+    "end_name": 322090,
+    "tiles": [
+      2790,
+      2791,
+      289,
+      235,
+      239,
+      325,
+      299,
+      293
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ヘキサグラム"
+  },
+  {
+    "index": 203,
+    "address": 322090,
+    "name_address": 322090,
+    "end_name": 322108,
+    "tiles": [
+      2790,
+      2791,
+      233,
+      236,
+      264,
+      325,
+      299,
+      293
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>オクトグラム"
+  },
+  {
+    "index": 204,
+    "address": 322108,
+    "name_address": 322108,
+    "end_name": 322128,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 205,
+    "address": 322128,
+    "name_address": 322128,
+    "end_name": 322148,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 206,
+    "address": 322148,
+    "name_address": 322148,
+    "end_name": 322168,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 207,
+    "address": 322168,
+    "name_address": 322168,
+    "end_name": 322188,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 208,
+    "address": 322188,
+    "name_address": 322188,
+    "end_name": 322208,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 209,
+    "address": 322208,
+    "name_address": 322208,
+    "end_name": 322228,
+    "tiles": [
+      2790,
+      2791,
+      363,
+      230,
+      330,
+      322,
+      235,
+      367,
+      229
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ポイズンキュア"
+  },
+  {
+    "index": 210,
+    "address": 322228,
+    "name_address": 322228,
+    "end_name": 322250,
+    "tiles": [
+      2790,
+      2791,
+      359,
+      299,
+      299,
+      230,
+      330,
+      235,
+      367,
+      229
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>パラライズキュア"
+  },
+  {
+    "index": 211,
+    "address": 322250,
+    "name_address": 322250,
+    "end_name": 322270,
+    "tiles": [
+      2790,
+      2791,
+      257,
+      264,
+      487,
+      322,
+      235,
+      367,
+      229
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ストーンキュア"
+  },
+  {
+    "index": 212,
+    "address": 322270,
+    "name_address": 322270,
+    "end_name": 322288,
+    "tiles": [
+      2790,
+      2791,
+      291,
+      322,
+      353,
+      299,
+      327,
+      299
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>マンドラゴラ"
+  },
+  {
+    "index": 213,
+    "address": 322288,
+    "name_address": 322288,
+    "end_name": 322304,
+    "tiles": [
+      2790,
+      2791,
+      232,
+      300,
+      236,
+      239,
+      487
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>エリクサー"
+  },
+  {
+    "index": 214,
+    "address": 322304,
+    "name_address": 322304,
+    "end_name": 322324,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 215,
+    "address": 322324,
+    "name_address": 322324,
+    "end_name": 322344,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 216,
+    "address": 322344,
+    "name_address": 322344,
+    "end_name": 322364,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 217,
+    "address": 322364,
+    "name_address": 322364,
+    "end_name": 322384,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 218,
+    "address": 322384,
+    "name_address": 322384,
+    "end_name": 322404,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 219,
+    "address": 322404,
+    "name_address": 322404,
+    "end_name": 322424,
+    "tiles": [
+      2790,
+      2791,
+      557,
+      129,
+      131,
+      196,
+      166,
+      100,
+      228
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>命のひでんしょ"
+  },
+  {
+    "index": 220,
+    "address": 322424,
+    "name_address": 322424,
+    "end_name": 322444,
+    "tiles": [
+      2790,
+      2791,
+      399,
+      129,
+      131,
+      196,
+      166,
+      100,
+      228
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>力のひでんしょ"
+  },
+  {
+    "index": 221,
+    "address": 322444,
+    "name_address": 322444,
+    "end_name": 322464,
+    "tiles": [
+      2790,
+      2791,
+      491,
+      129,
+      131,
+      196,
+      166,
+      100,
+      228
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>技のひでんしょ"
+  },
+  {
+    "index": 222,
+    "address": 322464,
+    "name_address": 322464,
+    "end_name": 322484,
+    "tiles": [
+      2790,
+      2791,
+      427,
+      129,
+      131,
+      196,
+      166,
+      100,
+      228
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>守のひでんしょ"
+  },
+  {
+    "index": 223,
+    "address": 322484,
+    "name_address": 322484,
+    "end_name": 322504,
+    "tiles": [
+      2790,
+      2791,
+      398,
+      129,
+      131,
+      196,
+      166,
+      100,
+      228
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>動のひでんしょ"
+  },
+  {
+    "index": 224,
+    "address": 322504,
+    "name_address": 322504,
+    "end_name": 322524,
+    "tiles": [
+      2790,
+      2791,
+      492,
+      129,
+      131,
+      196,
+      166,
+      100,
+      228
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>約のひでんしょ"
+  },
+  {
+    "index": 225,
+    "address": 322524,
+    "name_address": 322524,
+    "end_name": 322544,
+    "tiles": [
+      2790,
+      2791,
+      420,
+      129,
+      131,
+      196,
+      166,
+      100,
+      228
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>防のひでんしょ"
+  },
+  {
+    "index": 226,
+    "address": 322544,
+    "name_address": 322544,
+    "end_name": 322564,
+    "tiles": [
+      2790,
+      2791,
+      645,
+      129,
+      131,
+      196,
+      166,
+      100,
+      228
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>体のひでんしょ"
+  },
+  {
+    "index": 227,
+    "address": 322564,
+    "name_address": 322564,
+    "end_name": 322584,
+    "tiles": [
+      2790,
+      2791,
+      396,
+      129,
+      131,
+      196,
+      166,
+      100,
+      228
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>精のひでんしょ"
+  },
+  {
+    "index": 228,
+    "address": 322584,
+    "name_address": 322584,
+    "end_name": 322604,
+    "tiles": [
+      2790,
+      2791,
+      397,
+      129,
+      131,
+      196,
+      166,
+      100,
+      228
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>移のひでんしょ"
+  },
+  {
+    "index": 229,
+    "address": 322604,
+    "name_address": 322604,
+    "end_name": 322624,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 230,
+    "address": 322624,
+    "name_address": 322624,
+    "end_name": 322640,
+    "tiles": [
+      2761,
+      2762,
+      235,
+      487,
+      37,
+      47,
+      2
+    ],
+    "japanese": "<ICON:0AC9><ICON:0ACA>キーLV2"
+  },
+  {
+    "index": 231,
+    "address": 322640,
+    "name_address": 322640,
+    "end_name": 322656,
+    "tiles": [
+      2761,
+      2762,
+      235,
+      487,
+      37,
+      47,
+      3
+    ],
+    "japanese": "<ICON:0AC9><ICON:0ACA>キーLV3"
+  },
+  {
+    "index": 232,
+    "address": 322656,
+    "name_address": 322656,
+    "end_name": 322672,
+    "tiles": [
+      2761,
+      2762,
+      235,
+      487,
+      37,
+      47,
+      1
+    ],
+    "japanese": "<ICON:0AC9><ICON:0ACA>キーLV1"
+  },
+  {
+    "index": 233,
+    "address": 322672,
+    "name_address": 322672,
+    "end_name": 322688,
+    "tiles": [
+      2761,
+      2762,
+      356,
+      301,
+      487,
+      235,
+      487
+    ],
+    "japanese": "<ICON:0AC9><ICON:0ACA>ブルーキー"
+  },
+  {
+    "index": 234,
+    "address": 322688,
+    "name_address": 322688,
+    "end_name": 322706,
+    "tiles": [
+      2761,
+      2762,
+      325,
+      300,
+      487,
+      322,
+      235,
+      487
+    ],
+    "japanese": "<ICON:0AC9><ICON:0ACA>グリーンキー"
+  },
+  {
+    "index": 235,
+    "address": 322706,
+    "name_address": 322706,
+    "end_name": 322724,
+    "tiles": [
+      2761,
+      2762,
+      356,
+      299,
+      365,
+      236,
+      235,
+      487
+    ],
+    "japanese": "<ICON:0AC9><ICON:0ACA>ブラックキー"
+  },
+  {
+    "index": 236,
+    "address": 322724,
+    "name_address": 322724,
+    "end_name": 322744,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 237,
+    "address": 322744,
+    "name_address": 322744,
+    "end_name": 322764,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 238,
+    "address": 322764,
+    "name_address": 322764,
+    "end_name": 322776,
+    "tiles": [
+      2790,
+      2791,
+      264,
+      487,
+      261
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>トーチ"
+  },
+  {
+    "index": 239,
+    "address": 322776,
+    "name_address": 322776,
+    "end_name": 322788,
+    "tiles": [
+      2790,
+      2791,
+      299,
+      322,
+      361
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ランプ"
+  },
+  {
+    "index": 240,
+    "address": 322788,
+    "name_address": 322788,
+    "end_name": 322802,
+    "tiles": [
+      2790,
+      2791,
+      299,
+      322,
+      260,
+      322
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ランタン"
+  },
+  {
+    "index": 241,
+    "address": 322802,
+    "name_address": 322802,
+    "end_name": 322822,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 242,
+    "address": 322822,
+    "name_address": 322822,
+    "end_name": 322842,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 243,
+    "address": 322842,
+    "name_address": 322842,
+    "end_name": 322862,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 244,
+    "address": 322862,
+    "name_address": 322862,
+    "end_name": 322882,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 245,
+    "address": 322882,
+    "name_address": 322882,
+    "end_name": 322902,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 246,
+    "address": 322902,
+    "name_address": 322902,
+    "end_name": 322922,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 247,
+    "address": 322922,
+    "name_address": 322922,
+    "end_name": 322942,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 248,
+    "address": 322942,
+    "name_address": 322942,
+    "end_name": 322962,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 249,
+    "address": 322962,
+    "name_address": 322962,
+    "end_name": 322982,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 250,
+    "address": 322982,
+    "name_address": 322982,
+    "end_name": 323002,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 251,
+    "address": 323002,
+    "name_address": 323002,
+    "end_name": 323022,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 252,
+    "address": 323022,
+    "name_address": 323022,
+    "end_name": 323042,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 253,
+    "address": 323042,
+    "name_address": 323042,
+    "end_name": 323062,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 254,
+    "address": 323062,
+    "name_address": 323062,
+    "end_name": 323082,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  },
+  {
+    "index": 255,
+    "address": 323082,
+    "name_address": 323082,
+    "end_name": 323102,
+    "tiles": [
+      2790,
+      2791,
+      109,
+      109,
+      100,
+      129,
+      327,
+      322,
+      357
+    ],
+    "japanese": "<ICON:0AE6><ICON:0AE7>ななしのゴンベ"
+  }
+]
