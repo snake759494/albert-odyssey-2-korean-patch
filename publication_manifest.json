@@ -553,7 +553,7 @@
     {
       "path": "README.md",
       "size": 4297,
-      "sha256": "e6ca0c19773ef79b129115ed0287d1e5f57ebb7d060a2ec6811928ac7e1f2696"
+      "sha256": "51dcec5b4a3d3bd5c9c50f8225a3e81065d86da2a131afa4866a1c8c439d2f13"
     },
     {
       "path": "RIGHTS.md",
@@ -568,11 +568,11 @@
     {
       "path": "validation/release.json",
       "size": 732,
-      "sha256": "90d869df394528570f32bcf35457bccf27b55c748d70a41b2c76beabfdc9352e"
+      "sha256": "80d7481ae16dea252e8debe6acf7fc29e248437d55bb1b4c651f6bd6ed8f34db"
     }
   ],
   "release_asset": {
-    "filename": "Albert Odyssey 2 - Korean Full v06.xdelta",
+    "filename": "Albert.Odyssey.2.-.Korean.Full.v06.xdelta",
     "size": 104933,
     "md5": "79702743b11d687dda217f5e56df71c7",
     "sha256": "3603f4843c4d3d90ebf173a8577c6dc1ae561369dd02779075fe5b8d2b9001ef"
